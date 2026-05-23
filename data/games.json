@@ -1,0 +1,58 @@
+[
+  {
+    "id": "cd37ebd7ce804df9b51b84578e631b8a",
+    "title": "Down in Bermuda",
+    "description": "Down in Bermuda",
+    "image": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Offer_wide_2560x1440-a5d54568f32d4df2a0700c89b56f00ae",
+    "originalPrice": "0",
+    "startDate": "2026-05-21T15:00:00.000Z",
+    "endDate": "2026-05-28T15:00:00.000Z",
+    "slug": "down-in-bermuda",
+    "url": "https://store.epicgames.com/zh-CN/p/down-in-bermuda",
+    "isCurrent": true,
+    "seller": "Epic Dev Test Account",
+    "fetchedAt": "2026-05-22T13:30:30.351Z"
+  },
+  {
+    "id": "9e2567e57e61458686d53f5aeaf1e2e0",
+    "title": "Tomb Raider I-III Remastered Starring Lara Croft",
+    "description": "Tomb Raider I-III Remastered Starring Lara Croft",
+    "image": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Wide_2560x1440-70744ab05bab4e6784a6b206eef2a94c",
+    "originalPrice": "0",
+    "startDate": "2026-05-21T15:00:00.000Z",
+    "endDate": "2026-05-28T15:00:00.000Z",
+    "slug": "tomb-raider-iiii-remastered-538640",
+    "url": "https://store.epicgames.com/zh-CN/p/tomb-raider-iiii-remastered-538640",
+    "isCurrent": true,
+    "seller": "Epic Dev Test Account",
+    "fetchedAt": "2026-05-22T13:30:30.352Z"
+  },
+  {
+    "id": "9621cc6e5d32437ca3dd998de177f6da",
+    "title": "Mystery Game Week 22 Game 1",
+    "description": "Mystery Game Week 22 Game 1",
+    "image": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/image23_1920x1080-80a010b5958f4d898f9e454840c790a1",
+    "originalPrice": "0",
+    "startDate": "2026-05-28T15:00:00.000Z",
+    "endDate": "2026-06-04T15:00:00.000Z",
+    "slug": "[]",
+    "url": "https://store.epicgames.com/zh-CN/p/[]",
+    "isCurrent": false,
+    "seller": "Epic Dev Test Account",
+    "fetchedAt": "2026-05-22T13:30:30.352Z"
+  },
+  {
+    "id": "7fc5abc8f11c471e837ddd00ce963350",
+    "title": "Mystery Game Week 22 Game 2",
+    "description": "Mystery Game Week 22 Game 2",
+    "image": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/image23_1920x1080-80a010b5958f4d898f9e454840c790a1",
+    "originalPrice": "0",
+    "startDate": "2026-05-28T15:00:00.000Z",
+    "endDate": "2026-06-04T15:00:00.000Z",
+    "slug": "[]",
+    "url": "https://store.epicgames.com/zh-CN/p/[]",
+    "isCurrent": false,
+    "seller": "Epic Dev Test Account",
+    "fetchedAt": "2026-05-22T13:30:30.352Z"
+  }
+]

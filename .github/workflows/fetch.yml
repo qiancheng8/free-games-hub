@@ -1,0 +1,41 @@
+name: Fetch Epic Free Games
+
+on:
+  schedule:
+    # 每 6 小时跑一次（UTC），覆盖 Epic 周四晚 23:00（CST）的更新
+    - cron: '15 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fetch-epic
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Run fetch script
+        run: node scripts/fetch-epic.mjs
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "No data changes."
+          else
+            git commit -m "chore(data): refresh epic free games [$(date -u +%Y-%m-%dT%H:%MZ)]"
+            git push
+          fi
