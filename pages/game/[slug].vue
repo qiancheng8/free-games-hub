@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import gamesData from '~/data/games.json'
+import gameDetailsData from '~/data/game-details.json'
 
 const route = useRoute()
 const { findBySlug } = useGames()
@@ -9,6 +10,8 @@ const game = findBySlug(route.params.slug as string)
 if (!game) {
   throw createError({ statusCode: 404, statusMessage: '未找到该游戏', fatal: true })
 }
+
+const gameDetail = gameDetailsData[game.slug as keyof typeof gameDetailsData] || null
 
 const gameUrl = computed(() => {
   return game.url.replace(
@@ -80,38 +83,46 @@ const activeScreenshot = ref(0)
             </span>
           </div>
           <div class="p-6">
-            <h1 class="text-2xl md:text-3xl font-bold mb-3">{{ game.title }}</h1>
-            <p v-if="game.seller" class="text-sm text-slate-500 mb-4 flex items-center gap-2">
+            <h1 class="text-2xl md:text-3xl font-bold mb-3">{{ gameDetail?.title || game.title }}</h1>
+            <p v-if="gameDetail?.developer || game.seller" class="text-sm text-slate-500 mb-4 flex items-center gap-2">
               <Icon name="mdi:domain" class="w-4 h-4" />
-              {{ game.seller }}
+              {{ gameDetail?.developer || game.seller }}
             </p>
             <p class="text-slate-700 dark:text-slate-300 leading-relaxed mb-6 whitespace-pre-line">
-              {{ game.description }}
+              {{ gameDetail?.longDescription || game.description }}
             </p>
           </div>
         </div>
 
-        <div class="rounded-xl bg-white dark:bg-slate-800 border border-slate-100 dark:border-slate-700 shadow-sm p-6">
+        <div v-if="gameDetail?.screenshots?.length" class="rounded-xl bg-white dark:bg-slate-800 border border-slate-100 dark:border-slate-700 shadow-sm p-6">
           <h2 class="text-lg font-bold mb-4 flex items-center gap-2">
             <Icon name="mdi:image-multiple" class="w-5 h-5" />
             游戏截图
           </h2>
-          <div class="grid grid-cols-2 md:grid-cols-4 gap-3">
+          
+          <div class="mb-4 aspect-video bg-slate-100 dark:bg-slate-700 rounded-lg overflow-hidden">
+            <img 
+              v-if="gameDetail.screenshots[activeScreenshot]" 
+              :src="gameDetail.screenshots[activeScreenshot]" 
+              :alt="`截图 ${activeScreenshot + 1}`"
+              class="w-full h-full object-cover"
+            />
+          </div>
+
+          <div class="grid grid-cols-4 md:grid-cols-8 gap-2">
             <div
-              v-for="i in 4"
-              :key="i"
+              v-for="(screenshot, index) in gameDetail.screenshots.slice(0, 8)"
+              :key="index"
               class="aspect-video bg-slate-100 dark:bg-slate-700 rounded-lg overflow-hidden cursor-pointer hover:opacity-80 transition border-2"
-              :class="activeScreenshot === i - 1 ? 'border-brand' : 'border-transparent'"
-              @click="activeScreenshot = i - 1"
+              :class="activeScreenshot === index ? 'border-brand' : 'border-transparent'"
+              @click="activeScreenshot = index"
             >
-              <div class="w-full h-full flex items-center justify-center text-slate-400">
-                <Icon name="mdi:image" class="w-8 h-8" />
-              </div>
+              <img :src="screenshot" :alt="`缩略图 ${index + 1}`" class="w-full h-full object-cover" />
             </div>
           </div>
         </div>
 
-        <div class="rounded-xl bg-white dark:bg-slate-800 border border-slate-100 dark:border-slate-700 shadow-sm p-6">
+        <div v-if="gameDetail?.requirements" class="rounded-xl bg-white dark:bg-slate-800 border border-slate-100 dark:border-slate-700 shadow-sm p-6">
           <h2 class="text-lg font-bold mb-4 flex items-center gap-2">
             <Icon name="mdi:information" class="w-5 h-5" />
             系统需求
@@ -125,23 +136,23 @@ const activeScreenshot = ref(0)
               <dl class="space-y-2 text-sm">
                 <div class="flex">
                   <dt class="w-24 text-slate-500 shrink-0">操作系统</dt>
-                  <dd class="text-slate-700 dark:text-slate-300">Windows 7</dd>
+                  <dd class="text-slate-700 dark:text-slate-300">{{ gameDetail.requirements.minimum?.os }}</dd>
                 </div>
                 <div class="flex">
                   <dt class="w-24 text-slate-500 shrink-0">处理器</dt>
-                  <dd class="text-slate-700 dark:text-slate-300">Intel i5 Sandy Bridge 2.5 Ghz</dd>
+                  <dd class="text-slate-700 dark:text-slate-300">{{ gameDetail.requirements.minimum?.processor }}</dd>
                 </div>
                 <div class="flex">
                   <dt class="w-24 text-slate-500 shrink-0">内存</dt>
-                  <dd class="text-slate-700 dark:text-slate-300">4 GB RAM</dd>
+                  <dd class="text-slate-700 dark:text-slate-300">{{ gameDetail.requirements.minimum?.memory }}</dd>
                 </div>
                 <div class="flex">
                   <dt class="w-24 text-slate-500 shrink-0">显卡</dt>
-                  <dd class="text-slate-700 dark:text-slate-300">DX10 兼容显卡</dd>
+                  <dd class="text-slate-700 dark:text-slate-300">{{ gameDetail.requirements.minimum?.graphics }}</dd>
                 </div>
                 <div class="flex">
                   <dt class="w-24 text-slate-500 shrink-0">存储空间</dt>
-                  <dd class="text-slate-700 dark:text-slate-300">1 GB</dd>
+                  <dd class="text-slate-700 dark:text-slate-300">{{ gameDetail.requirements.minimum?.storage }}</dd>
                 </div>
               </dl>
             </div>
@@ -153,23 +164,23 @@ const activeScreenshot = ref(0)
               <dl class="space-y-2 text-sm">
                 <div class="flex">
                   <dt class="w-24 text-slate-500 shrink-0">操作系统</dt>
-                  <dd class="text-slate-700 dark:text-slate-300">Windows 10</dd>
+                  <dd class="text-slate-700 dark:text-slate-300">{{ gameDetail.requirements.recommended?.os }}</dd>
                 </div>
                 <div class="flex">
                   <dt class="w-24 text-slate-500 shrink-0">处理器</dt>
-                  <dd class="text-slate-700 dark:text-slate-300">Intel i5 Kaby Lake 3.0 Ghz</dd>
+                  <dd class="text-slate-700 dark:text-slate-300">{{ gameDetail.requirements.recommended?.processor }}</dd>
                 </div>
                 <div class="flex">
                   <dt class="w-24 text-slate-500 shrink-0">内存</dt>
-                  <dd class="text-slate-700 dark:text-slate-300">8 GB RAM</dd>
+                  <dd class="text-slate-700 dark:text-slate-300">{{ gameDetail.requirements.recommended?.memory }}</dd>
                 </div>
                 <div class="flex">
                   <dt class="w-24 text-slate-500 shrink-0">显卡</dt>
-                  <dd class="text-slate-700 dark:text-slate-300">DX11 兼容显卡 1GB</dd>
+                  <dd class="text-slate-700 dark:text-slate-300">{{ gameDetail.requirements.recommended?.graphics }}</dd>
                 </div>
                 <div class="flex">
                   <dt class="w-24 text-slate-500 shrink-0">存储空间</dt>
-                  <dd class="text-slate-700 dark:text-slate-300">1 GB</dd>
+                  <dd class="text-slate-700 dark:text-slate-300">{{ gameDetail.requirements.recommended?.storage }}</dd>
                 </div>
               </dl>
             </div>
@@ -182,8 +193,8 @@ const activeScreenshot = ref(0)
           <div class="mb-4">
             <div class="flex items-baseline gap-2 mb-1">
               <span class="text-3xl font-bold text-emerald-500">免费</span>
-              <span v-if="game.originalPrice" class="text-lg text-slate-400 line-through">
-                {{ game.originalPrice }}
+              <span v-if="gameDetail?.originalPrice" class="text-lg text-slate-400 line-through">
+                {{ gameDetail.originalPrice }}
               </span>
             </div>
             <p class="text-sm text-slate-500">限时免费领取</p>
@@ -219,45 +230,53 @@ const activeScreenshot = ref(0)
               <Countdown :end-date="game.endDate" />
             </div>
 
-            <div class="pt-2 border-t border-slate-100 dark:border-slate-700">
+            <div v-if="gameDetail?.genres?.length" class="pt-2 border-t border-slate-100 dark:border-slate-700">
               <h3 class="text-sm font-medium text-slate-500 mb-3 flex items-center gap-2">
                 <Icon name="mdi:tag" class="w-4 h-4" />
                 类型
               </h3>
               <div class="flex flex-wrap gap-2">
-                <span class="px-2 py-1 text-xs bg-slate-100 dark:bg-slate-700 rounded">解谜</span>
-                <span class="px-2 py-1 text-xs bg-slate-100 dark:bg-slate-700 rounded">冒险</span>
-                <span class="px-2 py-1 text-xs bg-slate-100 dark:bg-slate-700 rounded">独立</span>
+                <span v-for="genre in gameDetail.genres" :key="genre" class="px-2 py-1 text-xs bg-slate-100 dark:bg-slate-700 rounded">
+                  {{ genre }}
+                </span>
               </div>
             </div>
 
-            <div class="pt-2 border-t border-slate-100 dark:border-slate-700">
+            <div v-if="gameDetail?.features?.length" class="pt-2 border-t border-slate-100 dark:border-slate-700">
               <h3 class="text-sm font-medium text-slate-500 mb-3 flex items-center gap-2">
                 <Icon name="mdi:star" class="w-4 h-4" />
                 特性
               </h3>
               <div class="flex flex-wrap gap-2">
-                <span class="px-2 py-1 text-xs bg-slate-100 dark:bg-slate-700 rounded flex items-center gap-1">
-                  <Icon name="mdi:account" class="w-3 h-3" /> 单人
-                </span>
-                <span class="px-2 py-1 text-xs bg-slate-100 dark:bg-slate-700 rounded flex items-center gap-1">
-                  <Icon name="mdi:cloud" class="w-3 h-3" /> 云存储
-                </span>
-                <span class="px-2 py-1 text-xs bg-slate-100 dark:bg-slate-700 rounded flex items-center gap-1">
-                  <Icon name="mdi:trophy" class="w-3 h-3" /> 成就
+                <span v-for="feature in gameDetail.features" :key="feature" class="px-2 py-1 text-xs bg-slate-100 dark:bg-slate-700 rounded flex items-center gap-1">
+                  <Icon name="mdi:check" class="w-3 h-3" /> {{ feature }}
                 </span>
               </div>
             </div>
 
-            <div class="pt-2 border-t border-slate-100 dark:border-slate-700">
+            <div v-if="gameDetail?.platforms?.length" class="pt-2 border-t border-slate-100 dark:border-slate-700">
               <h3 class="text-sm font-medium text-slate-500 mb-3 flex items-center gap-2">
                 <Icon name="mdi:desktop-mac" class="w-4 h-4" />
                 平台
               </h3>
               <div class="flex flex-wrap gap-2">
-                <span class="px-2 py-1 text-xs bg-blue-100 dark:bg-blue-900 text-blue-700 dark:text-blue-300 rounded">Windows</span>
-                <span class="px-2 py-1 text-xs bg-slate-100 dark:bg-slate-700 rounded">macOS</span>
+                <span 
+                  v-for="platform in gameDetail.platforms" 
+                  :key="platform" 
+                  class="px-2 py-1 text-xs rounded"
+                  :class="platform === 'Windows' ? 'bg-blue-100 dark:bg-blue-900 text-blue-700 dark:text-blue-300' : 'bg-slate-100 dark:bg-slate-700'"
+                >
+                  {{ platform }}
+                </span>
               </div>
+            </div>
+
+            <div v-if="gameDetail?.releaseDate" class="pt-2 border-t border-slate-100 dark:border-slate-700">
+              <h3 class="text-sm font-medium text-slate-500 mb-2 flex items-center gap-2">
+                <Icon name="mdi:calendar" class="w-4 h-4" />
+                发布日期
+              </h3>
+              <p class="text-sm text-slate-700 dark:text-slate-300">{{ gameDetail.releaseDate }}</p>
             </div>
           </div>
         </div>

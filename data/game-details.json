@@ -1,0 +1,67 @@
+{
+  "down-in-bermuda": {
+    "title": "Down in Bermuda (逃出百慕大)",
+    "developer": "Yak & Co",
+    "publisher": "Yak & Co",
+    "longDescription": "解开复杂的谜题，逃出百慕大。《逃出百慕大》是一场奇特的冒险之旅，途中布满了亟待解决的谜题和等候揭开的奥秘。我们富有冒险精神的飞行员米尔顿，发现自己被困在百慕大群岛地底深处的时间泡泡中，需要你的帮助才能逃脱。\n\n破解密码，解开谜题，收集魔法球，逃离六个独特，但在寻找回家之路途中环环相扣的岛屿。\n\n风格独具的秘密特工冒险游戏《Agent A：伪装游戏》开发工作室最新力作。",
+    "originalPrice": "¥65.00",
+    "screenshots": [
+      "https://cdn2.unrealengine.com/egs-downinbermuda-yakco-g1a-01-1920x1080-435720790.jpg",
+      "https://cdn2.unrealengine.com/egs-downinbermuda-yakco-g1a-02-1920x1080-435721138.jpg",
+      "https://cdn2.unrealengine.com/egs-downinbermuda-yakco-g1a-03-1920x1080-435720995.jpg",
+      "https://cdn2.unrealengine.com/egs-downinbermuda-yakco-g1a-04-1920x1080-435721229.jpg",
+      "https://cdn2.unrealengine.com/egs-downinbermuda-yakco-g1a-05-1920x1080-435721606.jpg",
+      "https://cdn2.unrealengine.com/egs-downinbermuda-yakco-g1a-06-1920x1080-435721486.jpg",
+      "https://cdn2.unrealengine.com/egs-downinbermuda-yakco-g1a-07-1920x1080-435721542.jpg",
+      "https://cdn2.unrealengine.com/egs-downinbermuda-yakco-g1a-08-1920x1080-435721695.jpg"
+    ],
+    "genres": ["解谜", "冒险", "独立"],
+    "features": ["单人", "云存储", "成就"],
+    "platforms": ["Windows", "macOS"],
+    "releaseDate": "2021-01-14",
+    "requirements": {
+      "minimum": {
+        "os": "Windows 7",
+        "processor": "Intel i5 Sandy Bridge 2.5 Ghz",
+        "memory": "4 GB RAM",
+        "graphics": "DX10 兼容显卡",
+        "storage": "1 GB"
+      },
+      "recommended": {
+        "os": "Windows 10",
+        "processor": "Intel i5 Kaby Lake 3.0 Ghz",
+        "memory": "8 GB RAM",
+        "graphics": "DX11 兼容显卡 1GB",
+        "storage": "1 GB"
+      }
+    }
+  },
+  "tomb-raider-iiii-remastered-538640": {
+    "title": "Tomb Raider I-III Remastered Starring Lara Croft",
+    "developer": "Aspyr",
+    "publisher": "Aspyr",
+    "longDescription": "探索古墓丽影初代三部曲的重制版，包括《古墓丽影》、《古墓丽影 II：西安匕首》和《古墓丽影 III：劳拉的冒险》。体验高清重制的画面、改进的控制和全新的照片模式。",
+    "originalPrice": "¥198.00",
+    "screenshots": [],
+    "genres": ["动作", "冒险"],
+    "features": ["单人", "支持手柄"],
+    "platforms": ["Windows"],
+    "releaseDate": "2024-02-14",
+    "requirements": {
+      "minimum": {
+        "os": "Windows 10",
+        "processor": "Intel Core i3-2100 / AMD FX-4300",
+        "memory": "4 GB RAM",
+        "graphics": "NVIDIA GTX 650 / AMD Radeon HD 7770",
+        "storage": "15 GB"
+      },
+      "recommended": {
+        "os": "Windows 10",
+        "processor": "Intel Core i5-6600 / AMD Ryzen 5 1600",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GTX 1060 / AMD Radeon RX 580",
+        "storage": "15 GB"
+      }
+    }
+  }
+}
