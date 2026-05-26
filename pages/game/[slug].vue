@@ -39,7 +39,7 @@ useHead({
         name: game.title,
         description: game.description,
         image: game.image,
-        url: gameUrl,
+        url: gameUrl.value,
         offers: {
           '@type': 'Offer',
           price: '0',
