@@ -17,9 +17,9 @@ defineProps<{
 </script>
 
 <template>
-  <article class="group rounded-xl overflow-hidden bg-white shadow-sm hover:shadow-lg transition border border-slate-100">
+  <article class="group rounded-xl overflow-hidden bg-white dark:bg-slate-800 shadow-sm hover:shadow-lg transition border border-slate-100 dark:border-slate-700">
     <NuxtLink :to="`/game/${game.slug}`" class="block">
-      <div class="relative aspect-[16/9] overflow-hidden bg-slate-100">
+      <div class="relative aspect-[16/9] overflow-hidden bg-slate-100 dark:bg-slate-700">
         <img
           v-if="game.image"
           :src="game.image"
@@ -37,7 +37,7 @@ defineProps<{
     </NuxtLink>
     <div class="p-4">
       <h3 class="font-semibold text-base mb-1 line-clamp-1">{{ game.title }}</h3>
-      <p v-if="game.description" class="text-sm text-slate-500 line-clamp-2 mb-3 min-h-[2.5rem]">
+      <p v-if="game.description" class="text-sm text-slate-500 dark:text-slate-400 line-clamp-2 mb-3 min-h-[2.5rem]">
         {{ game.description }}
       </p>
       <div class="flex items-center justify-between">

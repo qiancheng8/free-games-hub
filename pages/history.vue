@@ -32,7 +32,7 @@ const fmt = (iso: string) => {
       v-model="query"
       type="search"
       placeholder="搜索游戏名..."
-      class="w-full md:w-80 px-4 py-2 mb-6 rounded-lg border border-slate-200 focus:border-brand focus:outline-none"
+      class="w-full md:w-80 px-4 py-2 mb-6 rounded-lg border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-800 text-slate-900 dark:text-slate-100 focus:border-brand focus:outline-none"
     />
 
     <div v-if="filtered.length" class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-4">
@@ -42,18 +42,18 @@ const fmt = (iso: string) => {
         :href="g.url"
         target="_blank"
         rel="noopener"
-        class="group block rounded-lg overflow-hidden bg-white border border-slate-100 hover:shadow-md transition"
+        class="group block rounded-lg overflow-hidden bg-white dark:bg-slate-800 border border-slate-100 dark:border-slate-700 hover:shadow-md transition"
       >
-        <div class="aspect-[16/9] bg-slate-100 overflow-hidden">
+        <div class="aspect-[16/9] bg-slate-100 dark:bg-slate-700 overflow-hidden">
           <img v-if="g.image" :src="g.image" :alt="g.title" loading="lazy" class="w-full h-full object-cover group-hover:scale-105 transition" />
         </div>
         <div class="p-3">
           <div class="text-sm font-medium line-clamp-1">{{ g.title }}</div>
-          <div class="text-xs text-slate-400 mt-1">{{ fmt(g.endDate) }} 截止</div>
+          <div class="text-xs text-slate-400 dark:text-slate-500 mt-1">{{ fmt(g.endDate) }} 截止</div>
         </div>
       </a>
     </div>
-    <div v-else class="rounded-lg bg-white border p-8 text-center text-slate-500">
+    <div v-else class="rounded-lg bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 p-8 text-center text-slate-500 dark:text-slate-400">
       没有匹配的游戏
     </div>
   </main>
