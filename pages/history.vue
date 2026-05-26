@@ -13,6 +13,16 @@ const filtered = computed(() => {
   return history.filter(g => g.title.toLowerCase().includes(q))
 })
 
+const formatGameUrl = (url: string) => {
+  return url.replace(
+    'https://store.epicgames.com/site/zh-CN/p/',
+    'https://store.epicgames.com/p/'
+  ).replace(
+    'https://store.epicgames.com/zh-CN/p/',
+    'https://store.epicgames.com/p/'
+  )
+}
+
 const fmt = (iso: string) => {
   if (!iso) return ''
   const d = new Date(iso)
@@ -39,7 +49,7 @@ const fmt = (iso: string) => {
       <a
         v-for="g in filtered"
         :key="g.id"
-        :href="g.url"
+        :href="formatGameUrl(g.url)"
         target="_blank"
         rel="noopener"
         class="group block rounded-lg overflow-hidden bg-white dark:bg-slate-800 border border-slate-100 dark:border-slate-700 hover:shadow-md transition"

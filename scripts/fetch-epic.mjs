@@ -44,7 +44,7 @@ function parse(item) {
     startDate: offer.startDate,
     endDate: offer.endDate,
     slug,
-    url: `https://store.epicgames.com/zh-CN/p/${slug}`,
+    url: `https://store.epicgames.com/p/${slug}`,
     isCurrent: !!promo,
     seller: item.seller?.name || '',
     fetchedAt: new Date().toISOString(),

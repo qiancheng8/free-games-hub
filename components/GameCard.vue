@@ -1,5 +1,5 @@
 <script setup lang="ts">
-defineProps<{
+const props = defineProps<{
   game: {
     id: string
     title: string
@@ -14,6 +14,16 @@ defineProps<{
   }
   upcoming?: boolean
 }>()
+
+const gameUrl = computed(() => {
+  return props.game.url.replace(
+    'https://store.epicgames.com/site/zh-CN/p/',
+    'https://store.epicgames.com/p/'
+  ).replace(
+    'https://store.epicgames.com/zh-CN/p/',
+    'https://store.epicgames.com/p/'
+  )
+})
 </script>
 
 <template>
@@ -47,7 +57,7 @@ defineProps<{
         />
         <a
           v-if="!upcoming"
-          :href="game.url"
+          :href="gameUrl"
           target="_blank"
           rel="noopener"
           class="px-3 py-1 text-xs font-medium rounded-md bg-brand text-white hover:bg-brand-dark transition"

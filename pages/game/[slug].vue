@@ -10,6 +10,16 @@ if (!game) {
   throw createError({ statusCode: 404, statusMessage: '未找到该游戏', fatal: true })
 }
 
+const gameUrl = computed(() => {
+  return game.url.replace(
+    'https://store.epicgames.com/site/zh-CN/p/',
+    'https://store.epicgames.com/p/'
+  ).replace(
+    'https://store.epicgames.com/zh-CN/p/',
+    'https://store.epicgames.com/p/'
+  )
+})
+
 useSeoMeta({
   title: `${game.title} - 免费领取`,
   description: game.description || `${game.title} 现在可在 Epic Games 商店免费领取。`,
@@ -29,7 +39,7 @@ useHead({
         name: game.title,
         description: game.description,
         image: game.image,
-        url: game.url,
+        url: gameUrl,
         offers: {
           '@type': 'Offer',
           price: '0',
@@ -88,7 +98,7 @@ const fmt = (iso: string) => {
         </dl>
 
         <a
-          :href="game.url"
+          :href="gameUrl"
           target="_blank"
           rel="noopener"
           class="inline-flex items-center gap-2 px-6 py-3 bg-brand text-white rounded-lg font-medium hover:bg-brand-dark transition"
