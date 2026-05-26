@@ -3,6 +3,7 @@ const links = [
   { to: '/', label: '本周免费' },
   { to: '/upcoming', label: '即将免费' },
   { to: '/history', label: '历史归档' },
+  { to: '/tutorial', label: '领取教程' },
 ]
 </script>
 
