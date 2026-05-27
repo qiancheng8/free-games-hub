@@ -1,0 +1,62 @@
+[
+  {
+    "id": "steam-3654",
+    "title": "Bunny Guys!",
+    "description": "Bunny Guys! is a fun 3D party game with pure parkour chaos. Claim it for free on Steam until May 29!",
+    "image": "https://www.gamerpower.com/offers/1b/6a109043243f5.jpg",
+    "originalPrice": "$4.99",
+    "startDate": "2026-05-22 13:20:03",
+    "endDate": "2026-05-29 23:59:00",
+    "slug": "bunny-guys",
+    "url": "https://www.gamerpower.com/open/bunny-guys-steam-giveaway",
+    "isCurrent": true,
+    "seller": "Steam",
+    "platform": "Steam",
+    "fetchedAt": "2026-05-27T00:00:00.000Z"
+  },
+  {
+    "id": "steam-3652",
+    "title": "Car Mechanic Simulator 2018",
+    "description": "Score Car Mechanic Simulator 2018 for free on Steam until May 27! It is a realistic simulation game with unique cars.",
+    "image": "https://www.gamerpower.com/offers/1b/6a0f3b4f599b9.jpg",
+    "originalPrice": "$19.99",
+    "startDate": "2026-05-21 13:05:19",
+    "endDate": "2026-05-27 23:59:00",
+    "slug": "car-mechanic-simulator-2018",
+    "url": "https://www.gamerpower.com/open/car-mechanic-simulator-2018-steam-giveaway",
+    "isCurrent": true,
+    "seller": "Steam",
+    "platform": "Steam",
+    "fetchedAt": "2026-05-27T00:00:00.000Z"
+  },
+  {
+    "id": "steam-2378",
+    "title": "Warhammer 40,000: Gladius - Relics of War",
+    "description": "Claim Warhammer 40,000: Gladius - Relics of War without any cost via Steam! It is the first turn-based 4X strategy game set in the Warhammer 40,000 universe!",
+    "image": "https://www.gamerpower.com/offers/1b/646f9975b9fea.jpg",
+    "originalPrice": "$39.99",
+    "startDate": "2026-05-21 12:23:46",
+    "endDate": "2026-05-28 23:59:00",
+    "slug": "warhammer-40k-gladius-relics-of-war",
+    "url": "https://www.gamerpower.com/open/warhammer-40-000-gladius-relics-of-war-steam-giveaway",
+    "isCurrent": true,
+    "seller": "Steam",
+    "platform": "Steam",
+    "fetchedAt": "2026-05-27T00:00:00.000Z"
+  },
+  {
+    "id": "steam-3644",
+    "title": "Dino running from a FURRY: GAMESFORFARM",
+    "description": "A 2.5D runner game that's free on Steam until May 30. You can be a furry chasing a dino!",
+    "image": "https://www.gamerpower.com/offers/1b/6a07557ecdf89.jpg",
+    "originalPrice": "$2.99",
+    "startDate": "2026-05-15 13:18:54",
+    "endDate": "2026-05-30 23:59:00",
+    "slug": "dino-running-from-a-furry",
+    "url": "https://www.gamerpower.com/open/dino-running-from-a-furry-gamesforfarm-steam-giveaway",
+    "isCurrent": true,
+    "seller": "Steam",
+    "platform": "Steam",
+    "fetchedAt": "2026-05-27T00:00:00.000Z"
+  }
+]

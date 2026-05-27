@@ -11,6 +11,7 @@ const props = defineProps<{
     slug: string
     url: string
     isCurrent?: boolean
+    platform?: 'Epic' | 'Steam'
   }
   upcoming?: boolean
 }>()
@@ -23,6 +24,13 @@ const gameUrl = computed(() => {
     'https://store.epicgames.com/zh-CN/p/',
     'https://store.epicgames.com/p/'
   )
+})
+
+const platformColor = computed(() => {
+  if (props.game.platform === 'Steam') {
+    return 'bg-blue-600 text-white'
+  }
+  return 'bg-slate-800 text-white'
 })
 </script>
 
@@ -42,6 +50,13 @@ const gameUrl = computed(() => {
           :class="upcoming ? 'bg-amber-500 text-white' : 'bg-emerald-500 text-white'"
         >
           {{ upcoming ? '即将免费' : '限免中' }}
+        </span>
+        <span
+          v-if="game.platform"
+          class="absolute top-2 right-2 px-2 py-0.5 text-xs rounded-md font-medium"
+          :class="platformColor"
+        >
+          {{ game.platform }}
         </span>
       </div>
     </NuxtLink>

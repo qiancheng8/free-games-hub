@@ -36,7 +36,7 @@ export default defineNuxtConfig({
   nitro: {
     prerender: {
       crawlLinks: true,
-      routes: ['/', '/upcoming', '/history', '/tutorial'],
+      routes: ['/', '/steam', '/upcoming', '/history', '/tutorial'],
       failOnError: false,
     },
   },

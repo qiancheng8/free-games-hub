@@ -1,5 +1,6 @@
 import gamesData from '~/data/games.json'
 import historyData from '~/data/history.json'
+import steamGamesData from '~/data/steam-games.json'
 
 export interface Game {
   id: string
@@ -14,6 +15,7 @@ export interface Game {
   isCurrent: boolean
   seller: string
   fetchedAt: string
+  platform?: 'Epic' | 'Steam'
 }
 
 export interface HistoryGame {
@@ -28,7 +30,10 @@ export interface HistoryGame {
 }
 
 export const useGames = () => {
-  const games = gamesData as Game[]
+  const epicGames = gamesData as Game[]
+  const steamGames = steamGamesData as Game[]
+  
+  const games = [...epicGames, ...steamGames]
   const history = historyData as HistoryGame[]
 
   return {
@@ -38,6 +43,10 @@ export const useGames = () => {
       new Date(b.endDate).getTime() - new Date(a.endDate).getTime()
     ),
     all: games,
+    epicGames,
+    steamGames,
+    currentEpic: epicGames.filter(g => g.isCurrent),
+    currentSteam: steamGames.filter(g => g.isCurrent),
     findBySlug: (slug: string): Game | undefined =>
       games.find(g => g.slug === slug),
   }

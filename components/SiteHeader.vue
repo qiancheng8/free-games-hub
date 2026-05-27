@@ -1,6 +1,7 @@
 <script setup lang="ts">
 const links = [
-  { to: '/', label: '本周免费' },
+  { to: '/', label: 'Epic' },
+  { to: '/steam', label: 'Steam' },
   { to: '/upcoming', label: '即将免费' },
   { to: '/history', label: '历史归档' },
   { to: '/tutorial', label: '领取教程' },

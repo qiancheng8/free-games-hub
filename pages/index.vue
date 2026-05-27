@@ -1,69 +1,64 @@
 <script setup lang="ts">
-const { current, upcoming } = useGames()
+const { currentEpic, currentSteam, upcoming } = useGames()
 const { public: cfg } = useRuntimeConfig()
 
-const titles = current.map(g => g.title).join('、')
+const epicTitles = currentEpic.map(g => g.title).join('、')
+const steamTitles = currentSteam.map(g => g.title).join('、')
+const allTitles = [epicTitles, steamTitles].filter(Boolean).join('、')
+
 useSeoMeta({
-  title: '本周 Epic 免费游戏',
-  description: current.length
-    ? `本周 Epic Games 商店免费领取：${titles}。每周四晚 23:00 更新，限时免费，过期失效。`
-    : '聚合 Epic Games 商店每周免费游戏，每周四晚 23:00 更新。',
-  ogTitle: `本周 Epic 免费游戏 - ${titles || '加载中'}`,
-  ogDescription: titles ? `本周限免：${titles}` : '每周追踪 Epic 免费游戏',
-  ogImage: current[0]?.image || '',
+  title: '免费游戏汇总',
+  description: allTitles
+    ? `限时免费游戏汇总：${allTitles}`
+    : '聚合各平台限时免费游戏，包含 Epic、Steam 等。',
+  ogTitle: `免费游戏汇总 - ${allTitles || '加载中'}`,
+  ogDescription: allTitles ? `限免汇总：${allTitles}` : '追踪各平台免费游戏',
+  ogImage: currentEpic[0]?.image || currentSteam[0]?.image || '',
   ogUrl: cfg.siteUrl,
   twitterCard: 'summary_large_image',
-})
-
-// JSON-LD 结构化数据
-useHead({
-  script: [
-    {
-      type: 'application/ld+json',
-      innerHTML: JSON.stringify({
-        '@context': 'https://schema.org',
-        '@type': 'ItemList',
-        name: '本周 Epic 免费游戏',
-        itemListElement: current.map((g, i) => ({
-          '@type': 'ListItem',
-          position: i + 1,
-          item: {
-            '@type': 'VideoGame',
-            name: g.title,
-            description: g.description,
-            image: g.image,
-            url: g.url,
-            offers: {
-              '@type': 'Offer',
-              price: '0',
-              priceCurrency: 'CNY',
-              availability: 'https://schema.org/InStock',
-              validThrough: g.endDate,
-            },
-          },
-        })),
-      }),
-    },
-  ],
 })
 </script>
 
 <template>
   <main class="max-w-6xl mx-auto px-4 py-8">
-    <section class="mb-10">
+    <section class="mb-12">
       <div class="flex items-baseline justify-between mb-2">
-        <h1 class="text-2xl md:text-3xl font-bold">本周 Epic 免费游戏</h1>
-        <span class="text-sm text-slate-500">每周四晚 23:00 更新</span>
+        <h1 class="text-2xl md:text-3xl font-bold">免费游戏汇总</h1>
       </div>
       <p class="text-slate-500 mb-6">
-        Epic Games 商店每周送出限时免费游戏，过期需原价购买，趁早领取入库。
+        聚合各平台限时免费游戏，过期需原价购买，趁早领取入库。
       </p>
+    </section>
 
-      <div v-if="current.length" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
-        <GameCard v-for="g in current" :key="g.id" :game="g" />
+    <section class="mb-12">
+      <div class="flex items-baseline justify-between mb-4">
+        <h2 class="text-xl font-bold flex items-center gap-2">
+          <span class="w-3 h-3 rounded-full bg-slate-800 dark:bg-slate-200"></span>
+          Epic Games Store
+        </h2>
+        <span class="text-sm text-slate-500">每周四晚 23:00 更新</span>
       </div>
-      <div v-else class="rounded-lg bg-white border p-8 text-center text-slate-500">
-        本周暂无免费游戏，请稍后再查看。
+      <div v-if="currentEpic.length" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
+        <GameCard v-for="g in currentEpic" :key="g.id" :game="{ ...g, platform: 'Epic' }" />
+      </div>
+      <div v-else class="rounded-lg bg-white border p-6 text-center text-slate-500">
+        本周 Epic 暂无免费游戏
+      </div>
+    </section>
+
+    <section class="mb-12">
+      <div class="flex items-baseline justify-between mb-4">
+        <h2 class="text-xl font-bold flex items-center gap-2">
+          <span class="w-3 h-3 rounded-full bg-blue-600"></span>
+          Steam
+        </h2>
+        <NuxtLink to="/steam" class="text-sm text-brand hover:underline">查看全部 →</NuxtLink>
+      </div>
+      <div v-if="currentSteam.length" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
+        <GameCard v-for="g in currentSteam.slice(0, 3)" :key="g.id" :game="g" />
+      </div>
+      <div v-else class="rounded-lg bg-white border p-6 text-center text-slate-500">
+        暂无 Steam 免费游戏
       </div>
     </section>
 
