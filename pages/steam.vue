@@ -1,11 +1,4 @@
 <script setup lang="ts">
-if (import.meta.server) {
-  console.log('[DEBUG] Steam page environment variables:', {
-    NUXT_PUBLIC_SITE_URL: process.env.NUXT_PUBLIC_SITE_URL,
-    GITHUB_PAGES: process.env.GITHUB_PAGES,
-  })
-}
-
 const { currentSteam } = useGames()
 const config = useRuntimeConfig()
 

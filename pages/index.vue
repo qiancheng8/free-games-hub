@@ -1,12 +1,4 @@
 <script setup lang="ts">
-if (import.meta.server) {
-  console.log('[DEBUG] Environment variables:', {
-    NUXT_PUBLIC_SITE_URL: process.env.NUXT_PUBLIC_SITE_URL,
-    GITHUB_PAGES: process.env.GITHUB_PAGES,
-    NODE_ENV: process.env.NODE_ENV,
-  })
-}
-
 const { currentEpic, currentSteam, upcoming } = useGames()
 const config = useRuntimeConfig()
 
