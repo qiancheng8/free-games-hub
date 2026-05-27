@@ -26,6 +26,7 @@ concurrency:
 
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+  NUXT_PUBLIC_SITE_URL: "https://qiancheng8.github.io/free-games-hub"
 
 jobs:
   # Build job

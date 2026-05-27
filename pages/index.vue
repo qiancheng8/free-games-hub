@@ -1,10 +1,21 @@
 <script setup lang="ts">
+if (import.meta.server) {
+  console.log('[DEBUG] Environment variables:', {
+    NUXT_PUBLIC_SITE_URL: process.env.NUXT_PUBLIC_SITE_URL,
+    GITHUB_PAGES: process.env.GITHUB_PAGES,
+    NODE_ENV: process.env.NODE_ENV,
+  })
+}
+
 const { currentEpic, currentSteam, upcoming } = useGames()
-const { public: cfg } = useRuntimeConfig()
+const config = useRuntimeConfig()
 
 const epicTitles = (currentEpic || []).map(g => g?.title || '').filter(Boolean).join('、')
 const steamTitles = (currentSteam || []).map(g => g?.title || '').filter(Boolean).join('、')
 const allTitles = [epicTitles, steamTitles].filter(Boolean).join('、')
+
+const siteUrl = (config.public?.siteUrl) || 'https://example.com'
+const ogImage = (currentEpic?.[0]?.image) || (currentSteam?.[0]?.image) || ''
 
 useSeoMeta({
   title: '免费游戏汇总',
@@ -13,8 +24,8 @@ useSeoMeta({
     : '聚合各平台限时免费游戏，包含 Epic、Steam 等。',
   ogTitle: `免费游戏汇总 - ${allTitles || '加载中'}`,
   ogDescription: allTitles ? `限免汇总：${allTitles}` : '追踪各平台免费游戏',
-  ogImage: (currentEpic?.[0]?.image) || (currentSteam?.[0]?.image) || '',
-  ogUrl: cfg.siteUrl,
+  ogImage,
+  ogUrl: siteUrl,
   twitterCard: 'summary_large_image',
 })
 </script>

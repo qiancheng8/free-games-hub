@@ -1,9 +1,17 @@
 <script setup lang="ts">
+if (import.meta.server) {
+  console.log('[DEBUG] Steam page environment variables:', {
+    NUXT_PUBLIC_SITE_URL: process.env.NUXT_PUBLIC_SITE_URL,
+    GITHUB_PAGES: process.env.GITHUB_PAGES,
+  })
+}
+
 const { currentSteam } = useGames()
-const { public: cfg } = useRuntimeConfig()
+const config = useRuntimeConfig()
 
 const safeSteam = currentSteam || []
 const titles = safeSteam.map(g => g?.title || '').filter(Boolean).join('、')
+const siteUrl = (config.public?.siteUrl) || 'https://example.com'
 
 useSeoMeta({
   title: 'Steam 免费游戏',
@@ -13,7 +21,7 @@ useSeoMeta({
   ogTitle: `Steam 免费游戏 - ${titles || '加载中'}`,
   ogDescription: titles ? `Steam 限免：${titles}` : '追踪 Steam 免费游戏',
   ogImage: safeSteam?.[0]?.image || '',
-  ogUrl: `${cfg.siteUrl}/steam`,
+  ogUrl: `${siteUrl}/steam`,
   twitterCard: 'summary_large_image',
 })
 
