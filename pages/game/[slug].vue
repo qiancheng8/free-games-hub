@@ -1,4 +1,6 @@
 <script setup lang="ts">
+import gameDetailsData from '~/data/game-details.json'
+
 const route = useRoute()
 const { findBySlug } = useGames()
 
@@ -8,7 +10,7 @@ if (!game) {
   throw createError({ statusCode: 404, statusMessage: '未找到该游戏', fatal: true })
 }
 
-const gameDetail = null
+const gameDetail = gameDetailsData[game.slug as keyof typeof gameDetailsData] || null
 
 const gameUrl = computed(() => {
   return game.url.replace(
@@ -22,7 +24,7 @@ const gameUrl = computed(() => {
 
 useSeoMeta({
   title: `${game.title} - 免费领取`,
-  description: game.description || `${game.title} 现在可免费领取。`,
+  description: game.description || `${game.title} 现在可在 Epic Games 商店免费领取。`,
   ogTitle: `${game.title} 免费领取中`,
   ogDescription: game.description,
   ogImage: game.image,
