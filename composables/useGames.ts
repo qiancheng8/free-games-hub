@@ -30,24 +30,24 @@ export interface HistoryGame {
 }
 
 export const useGames = () => {
-  const epicGames = gamesData as Game[]
-  const steamGames = steamGamesData as Game[]
+  const epicGames = (gamesData || []) as Game[]
+  const steamGames = (steamGamesData || []) as Game[]
   
   const games = [...epicGames, ...steamGames]
-  const history = historyData as HistoryGame[]
+  const history = (historyData || []) as HistoryGame[]
 
   return {
-    current: games.filter(g => g.isCurrent),
-    upcoming: games.filter(g => !g.isCurrent),
+    current: games.filter(g => g?.isCurrent),
+    upcoming: games.filter(g => !g?.isCurrent),
     history: [...history].sort((a, b) =>
       new Date(b.endDate).getTime() - new Date(a.endDate).getTime()
     ),
     all: games,
     epicGames,
     steamGames,
-    currentEpic: epicGames.filter(g => g.isCurrent),
-    currentSteam: steamGames.filter(g => g.isCurrent),
+    currentEpic: epicGames.filter(g => g?.isCurrent),
+    currentSteam: steamGames.filter(g => g?.isCurrent),
     findBySlug: (slug: string): Game | undefined =>
-      games.find(g => g.slug === slug),
+      games.find(g => g?.slug === slug),
   }
 }
