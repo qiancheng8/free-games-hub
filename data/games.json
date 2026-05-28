@@ -11,7 +11,7 @@
     "url": "https://store.epicgames.com/p/down-in-bermuda",
     "isCurrent": true,
     "seller": "Epic Dev Test Account",
-    "fetchedAt": "2026-05-28T04:39:35.768Z"
+    "fetchedAt": "2026-05-28T10:34:09.843Z"
   },
   {
     "id": "9e2567e57e61458686d53f5aeaf1e2e0",
@@ -25,7 +25,7 @@
     "url": "https://store.epicgames.com/p/tomb-raider-iiii-remastered-538640",
     "isCurrent": true,
     "seller": "Epic Dev Test Account",
-    "fetchedAt": "2026-05-28T04:39:35.769Z"
+    "fetchedAt": "2026-05-28T10:34:09.843Z"
   },
   {
     "id": "9621cc6e5d32437ca3dd998de177f6da",
@@ -39,7 +39,7 @@
     "url": "https://store.epicgames.com/p/[]",
     "isCurrent": false,
     "seller": "Epic Dev Test Account",
-    "fetchedAt": "2026-05-28T04:39:35.769Z"
+    "fetchedAt": "2026-05-28T10:34:09.843Z"
   },
   {
     "id": "7fc5abc8f11c471e837ddd00ce963350",
@@ -53,6 +53,6 @@
     "url": "https://store.epicgames.com/p/[]",
     "isCurrent": false,
     "seller": "Epic Dev Test Account",
-    "fetchedAt": "2026-05-28T04:39:35.769Z"
+    "fetchedAt": "2026-05-28T10:34:09.843Z"
   }
 ]
