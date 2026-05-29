@@ -87,59 +87,107 @@
     "title": "《孤星猎人》",
     "developer": "Math Tide",
     "publisher": "Thermite Games",
-    "longDescription": "",
-    "originalPrice": "",
+    "longDescription": "# 独特的对波战斗\n\n敌我双方各自为自身飞船的炮管积蓄威力，以对波一决胜负！这是孤星宇宙认定的对决方式，堂堂正正，不搞偷袭！\n\n# 免费提供宇宙飞船\n\n凡加入协会的猎人，协会将免费提供宇宙飞船！\n\n目前协会拥有两艘完全不同的飞船可供选择，第三艘飞船正在紧急研发中，即将出战！\n\n每艘飞船都拥有自身专长，并拥有近百种专属部件！（边上不显眼的小字：协会仅提供初始部件，其余部件需要猎人们在旅途中自行搜寻获取。）\n\n# 大量驾驶员\n\n作为孤星宇宙最大的赏金猎人组织，协会名下拥有多达数十名飞船驾驶员！\n\n协会在此保证：每一位驾驶员都经过协会的反复测试考量，不仅有独特的专属特长，也有海量的随机天赋，保障每一次抓捕体验都独一无二。\n\n同时，协会的招募工作一直在持续进行中，将来会有源源不断的新驾驶员到岗。\n\n# 充沛的假期\n\n协会严格遵守孤星宇宙劳动保护法，为广大赏金猎人提供充沛的假期。\n\n每当你完成悬赏任务后，协会将提供一段带薪休假的时光。\n\n在度假期间，你将遇见千奇百怪的度假事件，做出抉择，获取资源。所以请好好享受你的度假时光吧！\n\n# 海量部件和宝物\n\n孤星宇宙中有上百种不同宝物，每一样宝物都有独特的作用，配以不同飞船各类专属部件，相信如此繁多的组合已令你感到迷茫。\n\n没有关系！协会信息中心收集了宇宙中绝大部分的部件和宝物资料，并整理成一份百科奉上！这份百科一定会对你的流派搭配有所帮助！\n\n# 知己知彼，百战不殆\n\n协会的情报中心已经掌握了孤星宇宙中近百名通缉犯的信息，其中更是包含 15 名极度危险的首领级罪犯！你能在出勤前查阅罪犯信息，调整战斗策略。协会情报中心助你稳操胜券！\n\n对于将来会出现的新通缉犯，我们将发布在协会公告上，请定期查询。",
+    "originalPrice": "¥52.00",
     "screenshots": [
-      "https://cdn1.epicgames.com/gameRating/gameRating/Generic_7_192_192x192-e6feaa41dfb171d1ee47d82d2a2e7d12",
-      "https://cdn1.epicgames.com/spt-assets/142bbd5f45fb4cf7a61b301d8a3b9900/lonestar-video-1tphc.png?resize=1&w=480&h=270&quality=medium",
-      "https://cdn1.epicgames.com/spt-assets/142bbd5f45fb4cf7a61b301d8a3b9900/lonestar-bfb2j.png?resize=1&w=480&h=270&quality=medium",
-      "https://cdn1.epicgames.com/spt-assets/142bbd5f45fb4cf7a61b301d8a3b9900/lonestar-yee6t.png?resize=1&w=480&h=270&quality=medium",
-      "https://cdn1.epicgames.com/spt-assets/142bbd5f45fb4cf7a61b301d8a3b9900/lonestar-3rz7y.png?resize=1&w=480&h=270&quality=medium",
-      "https://cdn1.epicgames.com/spt-assets/142bbd5f45fb4cf7a61b301d8a3b9900/lonestar-6ewmc.png?resize=1&w=480&h=270&quality=medium",
-      "https://cdn1.epicgames.com/spt-assets/142bbd5f45fb4cf7a61b301d8a3b9900/lonestar-fi4xu.png?resize=1&w=480&h=270&quality=medium",
-      "https://cdn1.epicgames.com/spt-assets/142bbd5f45fb4cf7a61b301d8a3b9900/lonestar-6heuk.png?resize=1&w=480&h=270&quality=medium"
+      "https://cdn1.epicgames.com/spt-assets/142bbd5f45fb4cf7a61b301d8a3b9900/lonestar-bfb2j.png",
+      "https://cdn1.epicgames.com/spt-assets/142bbd5f45fb4cf7a61b301d8a3b9900/lonestar-yee6t.png",
+      "https://cdn1.epicgames.com/spt-assets/142bbd5f45fb4cf7a61b301d8a3b9900/lonestar-3rz7y.png",
+      "https://cdn1.epicgames.com/spt-assets/142bbd5f45fb4cf7a61b301d8a3b9900/lonestar-6ewmc.png",
+      "https://cdn1.epicgames.com/spt-assets/142bbd5f45fb4cf7a61b301d8a3b9900/lonestar-fi4xu.png",
+      "https://cdn1.epicgames.com/spt-assets/142bbd5f45fb4cf7a61b301d8a3b9900/lonestar-6heuk.png"
     ],
-    "genres": [],
-    "features": [
-      "Rogue-lite",
-      "卡牌游戏",
+    "genres": [
+      "成就",
+      "单人",
+      "Windows",
       "策略",
-      "单人"
+      "Rogue-lite",
+      "卡牌游戏"
     ],
-    "platforms": [],
-    "releaseDate": "24/01/18",
+    "features": [
+      "成就",
+      "单人",
+      "Windows",
+      "策略",
+      "Rogue-lite",
+      "卡牌游戏"
+    ],
+    "platforms": [
+      "Windows"
+    ],
+    "releaseDate": "2025-04-03T07:00:00.000Z",
     "requirements": {
-      "minimum": {},
-      "recommended": {}
+      "minimum": {
+        "os": "Windows 10",
+        "processor": "Intel Core2 Duo E6400 @ 2.13GHz",
+        "memory": "4 GB RAM",
+        "graphics": "GeForce GT 730 OR Radeon HD 4830",
+        "directx": "DirectX 11",
+        "storage": "2 GB available space"
+      },
+      "recommended": {
+        "os": "Windows 10",
+        "processor": "Intel Core i5-2300",
+        "memory": "8 GB RAM",
+        "graphics": "GeForce GTX 650 OR Radeon HD 7750",
+        "directx": "DirectX 11",
+        "storage": "2 GB available space"
+      }
     }
   },
   "calico": {
     "title": "《Calico》",
     "developer": "Peachy Keen Games",
     "publisher": "Whitethorn Games",
-    "longDescription": "",
-    "originalPrice": "",
+    "longDescription": "![Calico Image](https://cdn2.unrealengine.com/egs-calico-peachykeengames-s3-2560x1440-555511855.jpg)\n\n# 关于《Calico》的一切……\n\n《Calico》是一款日常生活社区模拟游戏。在这里，你有一项重要而可爱的任务：重建镇上的猫咪咖啡厅，让咖啡厅里充满可爱而毛茸茸的动物伙伴身影！你将来到一座充满魔法少女和其他神奇朋友的小村庄，接手一座破落的猫咪咖啡厅。用可爱家具、有趣布置、可口糕点和动物伙伴装饰你的咖啡厅，重新打响招牌！\n\n# 角色创建器（Character Creator）\n\n使用《Calico》的角色创建器，玩家可以打造属于自己的神奇角色，体验世界的精彩。游戏中还有许多服装可供收集和选择！\n\n# 可以与所有动物互动！\n\n在《Calico》的世界中，玩家会遇到许多动物。与动物成为朋友后，你可以给它们起名字，邀请他们组队，或者请它们去咖啡厅安新家。无论你去哪里，小队中的所有动物都会跟随你，听你指挥。咖啡厅中的动物会与到访的任何顾客一起放松、玩耍。\n\n除了与动物组队以外，你还可以抚摸猫咪和其他动物，并与它们一起玩耍！《Calico》中的部分与动物互动包括：玩玩具、跳舞、拥抱、爱抚、携带、一起放松和犒赏自己。\n\n# 咖啡厅装饰\n\n在《Calico》中，你的任务是让小镇的咖啡厅重现生机。但是，光让咖啡厅中充满猫咪和动物是无法实现这个目标的。你还得使用家具和玩具装饰自己的咖啡厅！游戏拥有完整的系统，可让你收集并布置家具、装饰和玩具。有的家具是为咖啡厅的人类访客准备的，有的则是为动物朋友们准备的，例如猫树、抓板、狗窝等等，还有更多精彩！\n\n# 迷你烹饪游戏\n\n为镇上的人们烘焙可口的糕点，调制美味饮品，打造出诱人的咖啡厅！你可以使用游戏中的系统烘焙面点，将烘焙品放在咖啡厅的展示柜中出售，也可以打造饮品菜单。部分糕点和饮品可以自定义。例如，你可以在马卡龙的表面画上设计图样哦~\n\n# 《Calico》的魔法\n\n在开发《Calico》时，我们希望玩家能有无限的方式寻找自己的快乐。我们设计了魔药系统，打破了限制可能性的规则，寻找最高的趣味。例如：速速变大魔药（More-to-pet Potion）会将一只动物的身形变得超巨大，非常神奇！你可以与一只巨大动物伙伴共度时光，甚至骑上一只巨型猫咪！",
+    "originalPrice": "¥36.00",
     "screenshots": [
-      "https://cdn2.unrealengine.com/egs-calico-peachykeengames-g1a-01-1920x1080-555511005.jpg?resize=1&w=480&h=270&quality=medium",
-      "https://cdn2.unrealengine.com/egs-calico-peachykeengames-g1a-02-1920x1080-555510959.jpg?resize=1&w=480&h=270&quality=medium",
-      "https://cdn2.unrealengine.com/egs-calico-peachykeengames-g1a-03-1920x1080-555510837.jpg?resize=1&w=480&h=270&quality=medium",
-      "https://cdn2.unrealengine.com/egs-calico-peachykeengames-g1a-04-1920x1080-555511151.jpg?resize=1&w=480&h=270&quality=medium",
-      "https://cdn2.unrealengine.com/egs-calico-peachykeengames-g1a-05-1920x1080-555511256.jpg?resize=1&w=480&h=270&quality=medium",
-      "https://cdn2.unrealengine.com/egs-calico-peachykeengames-g1a-06-1920x1080-555511360.jpg?resize=1&w=480&h=270&quality=medium"
+      "https://cdn2.unrealengine.com/egs-calico-peachykeengames-g1a-01-1920x1080-555511005.jpg",
+      "https://cdn2.unrealengine.com/egs-calico-peachykeengames-g1a-02-1920x1080-555510959.jpg",
+      "https://cdn2.unrealengine.com/egs-calico-peachykeengames-g1a-03-1920x1080-555510837.jpg",
+      "https://cdn2.unrealengine.com/egs-calico-peachykeengames-g1a-04-1920x1080-555511151.jpg",
+      "https://cdn2.unrealengine.com/egs-calico-peachykeengames-g1a-05-1920x1080-555511256.jpg",
+      "https://cdn2.unrealengine.com/egs-calico-peachykeengames-g1a-06-1920x1080-555511360.jpg"
     ],
-    "genres": [],
-    "features": [
-      "休闲",
-      "开放世界",
-      "模拟",
+    "genres": [
       "云存储",
-      "单人"
+      "单人",
+      "Windows",
+      "Mac OS",
+      "休闲",
+      "模拟",
+      "开放世界"
     ],
-    "platforms": [],
-    "releaseDate": "20/12/16",
+    "features": [
+      "云存储",
+      "单人",
+      "Windows",
+      "Mac OS",
+      "休闲",
+      "模拟",
+      "开放世界"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac OS"
+    ],
+    "releaseDate": "2020-12-15T18:00:00.000Z",
     "requirements": {
-      "minimum": {},
-      "recommended": {}
+      "minimum": {
+        "os": "Windows 7+",
+        "processor": "X64 CPU 2GHZ+",
+        "memory": "4GB Ram",
+        "graphics": "256 mb video memory, shader model 3.0+",
+        "storage": "1.5GB Available"
+      },
+      "recommended": {
+        "os": "Windows 10",
+        "processor": "X64 Multi Core CPU, 2GHZ+",
+        "memory": "8GB Ram",
+        "graphics": "256 mb video memory, shader model 3.0+",
+        "storage": "1.5GB Available"
+      }
     }
   }
 }
