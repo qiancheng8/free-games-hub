@@ -15,9 +15,20 @@
       "https://cdn2.unrealengine.com/egs-downinbermuda-yakco-g1a-07-1920x1080-435721542.jpg",
       "https://cdn2.unrealengine.com/egs-downinbermuda-yakco-g1a-08-1920x1080-435721695.jpg"
     ],
-    "genres": ["解谜", "冒险", "独立"],
-    "features": ["单人", "云存储", "成就"],
-    "platforms": ["Windows", "macOS"],
+    "genres": [
+      "解谜",
+      "冒险",
+      "独立"
+    ],
+    "features": [
+      "单人",
+      "云存储",
+      "成就"
+    ],
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
     "releaseDate": "2021-01-14",
     "requirements": {
       "minimum": {
@@ -43,9 +54,17 @@
     "longDescription": "探索古墓丽影初代三部曲的重制版，包括《古墓丽影》、《古墓丽影 II：西安匕首》和《古墓丽影 III：劳拉的冒险》。体验高清重制的画面、改进的控制和全新的照片模式。",
     "originalPrice": "¥198.00",
     "screenshots": [],
-    "genres": ["动作", "冒险"],
-    "features": ["单人", "支持手柄"],
-    "platforms": ["Windows"],
+    "genres": [
+      "动作",
+      "冒险"
+    ],
+    "features": [
+      "单人",
+      "支持手柄"
+    ],
+    "platforms": [
+      "Windows"
+    ],
     "releaseDate": "2024-02-14",
     "requirements": {
       "minimum": {
@@ -62,6 +81,65 @@
         "graphics": "NVIDIA GTX 1060 / AMD Radeon RX 580",
         "storage": "15 GB"
       }
+    }
+  },
+  "lonestar-83f143": {
+    "title": "《孤星猎人》",
+    "developer": "Math Tide",
+    "publisher": "Thermite Games",
+    "longDescription": "",
+    "originalPrice": "",
+    "screenshots": [
+      "https://cdn1.epicgames.com/gameRating/gameRating/Generic_7_192_192x192-e6feaa41dfb171d1ee47d82d2a2e7d12",
+      "https://cdn1.epicgames.com/spt-assets/142bbd5f45fb4cf7a61b301d8a3b9900/lonestar-video-1tphc.png?resize=1&w=480&h=270&quality=medium",
+      "https://cdn1.epicgames.com/spt-assets/142bbd5f45fb4cf7a61b301d8a3b9900/lonestar-bfb2j.png?resize=1&w=480&h=270&quality=medium",
+      "https://cdn1.epicgames.com/spt-assets/142bbd5f45fb4cf7a61b301d8a3b9900/lonestar-yee6t.png?resize=1&w=480&h=270&quality=medium",
+      "https://cdn1.epicgames.com/spt-assets/142bbd5f45fb4cf7a61b301d8a3b9900/lonestar-3rz7y.png?resize=1&w=480&h=270&quality=medium",
+      "https://cdn1.epicgames.com/spt-assets/142bbd5f45fb4cf7a61b301d8a3b9900/lonestar-6ewmc.png?resize=1&w=480&h=270&quality=medium",
+      "https://cdn1.epicgames.com/spt-assets/142bbd5f45fb4cf7a61b301d8a3b9900/lonestar-fi4xu.png?resize=1&w=480&h=270&quality=medium",
+      "https://cdn1.epicgames.com/spt-assets/142bbd5f45fb4cf7a61b301d8a3b9900/lonestar-6heuk.png?resize=1&w=480&h=270&quality=medium"
+    ],
+    "genres": [],
+    "features": [
+      "Rogue-lite",
+      "卡牌游戏",
+      "策略",
+      "单人"
+    ],
+    "platforms": [],
+    "releaseDate": "24/01/18",
+    "requirements": {
+      "minimum": {},
+      "recommended": {}
+    }
+  },
+  "calico": {
+    "title": "《Calico》",
+    "developer": "Peachy Keen Games",
+    "publisher": "Whitethorn Games",
+    "longDescription": "",
+    "originalPrice": "",
+    "screenshots": [
+      "https://cdn2.unrealengine.com/egs-calico-peachykeengames-g1a-01-1920x1080-555511005.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn2.unrealengine.com/egs-calico-peachykeengames-g1a-02-1920x1080-555510959.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn2.unrealengine.com/egs-calico-peachykeengames-g1a-03-1920x1080-555510837.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn2.unrealengine.com/egs-calico-peachykeengames-g1a-04-1920x1080-555511151.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn2.unrealengine.com/egs-calico-peachykeengames-g1a-05-1920x1080-555511256.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn2.unrealengine.com/egs-calico-peachykeengames-g1a-06-1920x1080-555511360.jpg?resize=1&w=480&h=270&quality=medium"
+    ],
+    "genres": [],
+    "features": [
+      "休闲",
+      "开放世界",
+      "模拟",
+      "云存储",
+      "单人"
+    ],
+    "platforms": [],
+    "releaseDate": "20/12/16",
+    "requirements": {
+      "minimum": {},
+      "recommended": {}
     }
   }
 }
