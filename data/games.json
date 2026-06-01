@@ -11,7 +11,7 @@
     "url": "https://store.epicgames.com/p/lonestar-83f143",
     "isCurrent": true,
     "seller": "Epic Dev Test Account",
-    "fetchedAt": "2026-05-31T19:41:01.849Z"
+    "fetchedAt": "2026-06-01T05:15:58.050Z"
   },
   {
     "id": "7fc5abc8f11c471e837ddd00ce963350",
@@ -25,7 +25,7 @@
     "url": "https://store.epicgames.com/p/calico",
     "isCurrent": true,
     "seller": "Epic Dev Test Account",
-    "fetchedAt": "2026-05-31T19:41:01.849Z"
+    "fetchedAt": "2026-06-01T05:15:58.050Z"
   },
   {
     "id": "a6a2d59fa54946dbbf16f14730c2e5f0",
@@ -39,7 +39,7 @@
     "url": "https://store.epicgames.com/p/[]",
     "isCurrent": false,
     "seller": "Epic Dev Test Account",
-    "fetchedAt": "2026-05-31T19:41:01.849Z"
+    "fetchedAt": "2026-06-01T05:15:58.050Z"
   },
   {
     "id": "62b6d302e2bd41039449b1f2f9608748",
@@ -53,6 +53,6 @@
     "url": "https://store.epicgames.com/p/[]",
     "isCurrent": false,
     "seller": "Epic Dev Test Account",
-    "fetchedAt": "2026-05-31T19:41:01.849Z"
+    "fetchedAt": "2026-06-01T05:15:58.050Z"
   }
 ]
