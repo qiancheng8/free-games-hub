@@ -189,5 +189,124 @@
         "storage": "1.5GB Available"
       }
     }
+  },
+  "songs-of-conquest": {
+    "title": "《征服之歌》支持者版本升级",
+    "developer": "Lavapotion",
+    "publisher": "Coffee Stain Publishing",
+    "longDescription": "《征服之歌》是一款灵感来源于 90 年代经典作品的回合制策略游戏。 率领被称为“行使者”的强大魔法师深入未知领域。 让一切胆敢阻拦你的军队灰飞烟灭、寻觅蕴含无穷力量的宝物并逐步扩张自己的领土。 广袤世界唾手可得，在这里胜者为王！\n\n冒险在等待\n=====\n\n探索各式各样的独特地图，对抗种类繁多的敌人并寻找珍贵的战利品。 在形形色色的地貌中见证独树一帜的派系、环境与战场。\n\n铸就帝国\n====\n\n管理资源、研究新科技并扩张你的王国。 根据自己的游戏风格提前规划城镇发展：你想要征召弓箭手让敌人感受从天而降的箭雨，还是率领永生不死的奥雷莉亚军团横扫世界？\n\n南征北战\n====\n\n投身于部队能力与强力魔法的复杂战斗系统。 组合不同部队以发挥无穷无尽的法术并宣泄毁天灭地的威力。 迎战波澜壮阔的攻城战并挑选最适合自己的游玩以及策略风格的派系。 征服之道永无止境！\n\n随心所欲畅玩\n======\n\n为好奇的冒险者手工制作的地图，或者是在随机地图中享受无穷无尽的可重复游玩性。 征服战地图将带来高强度对战，而挑战地图的策略谜题则将磨砺你的战术思考。 探索来自 Lavapotion 团队以及模组社区的丰富地图。\n\n孤军奋战或联手抗敌\n=========\n\n独自深入艾伯的世界，或者与好友组队同行，亦或是寻找友好与敌对的电脑玩家，选择权在你。 绝大多数地图都支持单人、合作、或者是本地热座模式&在线多人游玩。\n\n四大派系\n====\n\n四个派系已经陷入了规模空前宏大的战争泥潭。 作为来自过去的骑士，亚利昂的内部为争夺统治权而相互争战。 沼泽中的远古部落民拉纳则在竭尽全力为了生存而战。 由亡灵法师构成的洛斯想要通过复苏死者来塑造荣耀的未来。 作为艺高人胆大的佣兵与发明家，钱财、火药与独立是巴里亚为之奋斗的目标。\n\n四段荡气回肠的战役\n=========\n\n在通往胜利的道路上聆听吟游诗人们为你传唱的赞歌。 每个战役都将带来一段诉说迭起兴衰的独特歌谣。 在完成任务的过程中不断解锁全新的段落，并在旅途的最后感受属于你的完整歌谣。\n\n游戏内地图编辑器\n========\n\n游戏内的地图编辑器将允许你自由创建冒险，开发团队们也是用同样的工具创作了游戏中的战役与遭遇战地图。 编写游戏内事件脚本、设定音轨播放方案、创作对话并与其他人分享你的创意！",
+    "originalPrice": "¥98.00",
+    "screenshots": [
+      "https://cdn2.unrealengine.com/egs-songsofconquest-lavapotion-g1a-03-1920x1080-1c5947583072.jpg",
+      "https://cdn2.unrealengine.com/egs-songsofconquest-lavapotion-g1a-04-1920x1080-4dcfddf72fb4.jpg",
+      "https://cdn2.unrealengine.com/egs-songsofconquest-lavapotion-g1a-05-1920x1080-2dc7f811f253.jpg",
+      "https://cdn2.unrealengine.com/egs-songsofconquest-lavapotion-g1a-06-1920x1080-602a0c8dbb08.jpg",
+      "https://cdn2.unrealengine.com/egs-songsofconquest-lavapotion-g1a-07-1920x1080-3b626a4d5261.jpg",
+      "https://cdn2.unrealengine.com/egs-songsofconquest-lavapotion-g1a-07-1920x1080-cb00a4549f50.jpg",
+      "https://cdn2.unrealengine.com/egs-songsofconquest-lavapotion-g1a-09-1920x1080-bb69f43bee66.jpg",
+      "https://cdn2.unrealengine.com/egs-songsofconquest-lavapotion-g1a-10-1920x1080-e944b11dd48b.jpg",
+      "https://cdn2.unrealengine.com/egs-songsofconquest-lavapotion-g1a-11-1920x1080-b20fdbe18f56.jpg",
+      "https://cdn2.unrealengine.com/egs-songsofconquest-lavapotion-g1a-12-1920x1080-73d1d5f7371d.jpg",
+      "https://cdn2.unrealengine.com/egs-songsofconquest-lavapotion-g1a-13-1920x1080-268c977efcc2.jpg"
+    ],
+    "genres": [
+      "成就",
+      "Online Multiplayer",
+      "单人",
+      "Windows",
+      "Mac OS",
+      "策略",
+      "冒险"
+    ],
+    "features": [
+      "成就",
+      "Online Multiplayer",
+      "单人",
+      "Windows",
+      "Mac OS",
+      "策略",
+      "冒险"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac OS"
+    ],
+    "releaseDate": "2022-05-10T16:00:00.000Z",
+    "requirements": {
+      "minimum": {
+        "os": "Windows 7",
+        "processor": "i5 Dual Core 或 Ryzen 5",
+        "memory": "4 GB",
+        "storage": "4 GB",
+        "directx": "10",
+        "graphics": "集成显卡"
+      },
+      "recommended": {
+        "os": "Windows 10",
+        "processor": "i7 Quad Core 或 Ryzen 7",
+        "memory": "16 GB",
+        "storage": "8 GB",
+        "directx": "10",
+        "graphics": "GTX 970 / RX 570 或类似产品"
+      }
+    }
+  },
+  "rogue-waters-9764d6": {
+    "title": "Rogue Waters - Official Soundtrack",
+    "developer": "Ice Code Games",
+    "publisher": "Tripwire Presents",
+    "longDescription": "# BECOME THE PIRATE CAPTAIN\n\nSet sail as Captain Cutter, a pirate caught in a deadly struggle for power and vengeance. Navigate dangerous waters, unleash mythical sea creatures, and outwit enemies as you chase legendary treasure and confront dark secrets.    \n- Embark on a journey of loyalty, betrayal, and revenge, as you unravel the mysteries of the Sea Shepherd prophecy and face the immortal Captain Blackbone. \n- Use your Pirate Cave (HUB) to equip ship upgrades & crew members before each run. \n- Each run generates new encounters, requiring careful navigation as you work your way toward Captain Blackbone.\n- Enjoy a rich, story-driven adventure across 3 acts, with endless replayability.\n\n# ASSEMBLE YOUR CREW\n\nRecruit and grow your pirate crew, discovering their hidden potential as you lead them into battle. It's your responsibility to mold them into the legendary pirates they were destined to be.\n- Recruit from 6 unique classes, each with distinct abilities and playstyles for your ship’s crew.\n- After each run, upgrade your crew’s skills to increase their effectiveness.\n- Damage persists across runs, requiring you to swap out crew members to allow them time to heal.\n\n# EVER-CHANGING LAND AND SEA\n\nFace new challenges as the game world shifts procedurally with each run, offering fresh secrets, combat scenarios, and treasures to discover.\n- Encounters feature diverse pirate factions and enemy types—choose your battles wisely.\n- Your crew will engage enemies on ships and land alike.\n- Visit shops to heal, upgrade crew, buy cannons, and repair your ship.\n- You can extort shops for loot, but it’ll lead to a fight.\n\n# TURN THE TIDES\n\nCustomize your naval encounters with cannons and ship artillery. Unleash powerful shots during naval combat to destroy enemy ship modules and gain the upper hand in boarding fights.\n- Encounters begin with Sea Battles where you can use cannons to target key areas of enemy ships.\n- Both your ship and the enemy's have distinct buffs that can be destroyed.\n- Crew members can be targeted and killed during battle, so defend your ship and crew before boarding.\n\n# TACTICS EN GARDE!\n\nExperience a fresh take on turn-based tactical combat that replicates the visceral intensity of cloak-and-dagger duels. Use the environment to gain the upper hand like never before.\n- The boarding phase involves hand-to-hand combat where your crew faces off against enemies.\n- Use your crew's unique abilities to maneuver and pin enemies against obstacles for fatal damage.\n- Leverage the environment by pushing enemies into spikes, grabbing one-time weapons, or swinging into position with ropes.\n\n# SUMMON CREATURES FROM THE DEEP\n\nLegendary sea creatures, once thought to be myths, roam the oceans of Rogue Waters. Free them from captivity and gain their trust to summon them in battle.\n\nSummon 3 sea monsters to assist in the boarding phase:\n- The Kraken crushes nearby enemies.\n- The Mermaid disrupts and pushes enemies in any direction.\n- The Giant Snail drops a deadly spiked obstacle on the deck.\n\n# THESE WATERS ARE ROGUE-LITE\n\nEach run resets your equipment and items, but unlocks permanent upgrades for your crew, ship, and Captain Cutter, allowing you to grow stronger with every battle.\n\n**Items and upgrades reset between each run:**\n- Personal items (character equipment): additional weapons, attack modifiers, and side upgrades for abilities.\n- Shipboard weapons (cannons and similar items): each new run begins with a usable, basic starter set.\n- Ship modules reset as well.\n\n**Each run permanently increases your progress:**\n- Unlock skill trees  for crew members and Captain Cutter.\n- Acquire ship and port facility upgrades in the Pirate Cave (HUB).",
+    "originalPrice": "¥15.00",
+    "screenshots": [
+      "https://cdn1.epicgames.com/spt-assets/0432328c147947ce8ac177a88ce06cc0/rogue-waters-1bvw5.jpg",
+      "https://cdn1.epicgames.com/spt-assets/0432328c147947ce8ac177a88ce06cc0/rogue-waters-1ssil.jpg",
+      "https://cdn1.epicgames.com/spt-assets/0432328c147947ce8ac177a88ce06cc0/rogue-waters-18ztf.jpg",
+      "https://cdn1.epicgames.com/spt-assets/0432328c147947ce8ac177a88ce06cc0/rogue-waters-vh7ic.jpg",
+      "https://cdn1.epicgames.com/spt-assets/0432328c147947ce8ac177a88ce06cc0/rogue-waters-sk8j4.jpg",
+      "https://cdn1.epicgames.com/spt-assets/0432328c147947ce8ac177a88ce06cc0/rogue-waters-fu74a.jpg",
+      "https://cdn1.epicgames.com/spt-assets/0432328c147947ce8ac177a88ce06cc0/rogue-waters-17dyj.jpg",
+      "https://cdn1.epicgames.com/spt-assets/0432328c147947ce8ac177a88ce06cc0/rogue-waters-e5ota.jpg",
+      "https://cdn1.epicgames.com/spt-assets/0432328c147947ce8ac177a88ce06cc0/rogue-waters-1sr3a.jpg",
+      "https://cdn1.epicgames.com/spt-assets/0432328c147947ce8ac177a88ce06cc0/rogue-waters-j95c7.jpg",
+      "https://cdn1.epicgames.com/spt-assets/0432328c147947ce8ac177a88ce06cc0/rogue-waters-vo7kj.jpg",
+      "https://cdn1.epicgames.com/spt-assets/0432328c147947ce8ac177a88ce06cc0/rogue-waters-x2ws1.jpg",
+      "https://cdn1.epicgames.com/spt-assets/0432328c147947ce8ac177a88ce06cc0/rogue-waters-1dg3f.jpg",
+      "https://cdn1.epicgames.com/spt-assets/0432328c147947ce8ac177a88ce06cc0/rogue-waters-1sb7k.jpg",
+      "https://cdn1.epicgames.com/spt-assets/0432328c147947ce8ac177a88ce06cc0/rogue-waters-k7yap.jpg",
+      "https://cdn1.epicgames.com/spt-assets/0432328c147947ce8ac177a88ce06cc0/rogue-waters-kvent.jpg",
+      "https://cdn1.epicgames.com/spt-assets/0432328c147947ce8ac177a88ce06cc0/rogue-waters-c8def.jpg",
+      "https://cdn1.epicgames.com/spt-assets/0432328c147947ce8ac177a88ce06cc0/rogue-waters-1t93t.jpg",
+      "https://cdn1.epicgames.com/spt-assets/0432328c147947ce8ac177a88ce06cc0/rogue-waters-3m8jf.jpg"
+    ],
+    "genres": [
+      "成就",
+      "Windows"
+    ],
+    "features": [
+      "成就",
+      "Windows"
+    ],
+    "platforms": [
+      "Windows"
+    ],
+    "releaseDate": "2024-09-30T15:00:00.000Z",
+    "requirements": {
+      "minimum": {
+        "OS version": "Windows 10 64bit",
+        "CPU": "4-Core Processor (4 CPUs) 2.5 Ghz 64bit Intel Core i5-4690T 2.5 GHz || AMD Phenom X4 9850 2,5 GHz",
+        "Memory": "8",
+        "graphics": "NVIDIA GeForce GTX 950 || Radeon RX 560",
+        "directx": "DirectX 11",
+        "Storage": "6GB"
+      },
+      "recommended": {
+        "OS version": "Windows 10 64bit",
+        "CPU": "4-Core Processor (4 CPUs) 3.0 Ghz 64bit Intel Core i5-2320 3.0 GHz || AMD Ryzen 3 3200 3,0 GHz",
+        "Memory": "8",
+        "graphics": "NVIDIA GeForce GTX 1050Ti || Radeon RX 570",
+        "directx": "DirectX 11",
+        "Storage": "6GB"
+      }
+    }
   }
 }
