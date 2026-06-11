@@ -58,5 +58,25 @@
     "startDate": "2026-06-04T15:00:00.000Z",
     "slug": "songs-of-conquest",
     "url": "https://store.epicgames.com/p/songs-of-conquest"
+  },
+  {
+    "id": "7f0ab2828f9743d0abc6612a11222fdf",
+    "title": "The Ouroboros King",
+    "image": "https://cdn1.epicgames.com/spt-assets/33630d7105014582a478094e89953f49/the-ouroboros-king-jwabx.jpg",
+    "originalPrice": "¥31.00",
+    "endDate": "2026-06-18T15:00:00.000Z",
+    "startDate": "2026-06-11T15:00:00.000Z",
+    "slug": "the-ouroboros-king-e1d547",
+    "url": "https://store.epicgames.com/p/the-ouroboros-king-e1d547"
+  },
+  {
+    "id": "eb6ae87e73d94d2c96bab3c4da4dd3de",
+    "title": "Warhammer 40K Speed Freeks",
+    "image": "https://cdn1.epicgames.com/spt-assets/a1af14251fb748fc9bda63bfc260f933/warhammer-40k-speed-freeks-1k4pq.jpg",
+    "originalPrice": "¥62.00",
+    "endDate": "2026-06-18T15:00:00.000Z",
+    "startDate": "2026-06-11T15:00:00.000Z",
+    "slug": "warhammer-40k-speed-freeks-12879c",
+    "url": "https://store.epicgames.com/p/warhammer-40k-speed-freeks-12879c"
   }
 ]
