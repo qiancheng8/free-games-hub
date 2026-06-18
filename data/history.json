@@ -78,5 +78,25 @@
     "startDate": "2026-06-11T15:00:00.000Z",
     "slug": "warhammer-40k-speed-freeks-12879c",
     "url": "https://store.epicgames.com/p/warhammer-40k-speed-freeks-12879c"
+  },
+  {
+    "id": "ea365d314ecf4224a5f58d2d7430e7aa",
+    "title": "深空梦里人",
+    "image": "https://cdn1.epicgames.com/spt-assets/919d5976f3804d4cabb8ca90ea43a956/citizen-sleeper-17dh5.jpg",
+    "originalPrice": "¥62.00",
+    "endDate": "2026-06-25T15:00:00.000Z",
+    "startDate": "2026-06-18T15:00:00.000Z",
+    "slug": "citizen-sleeper-944858",
+    "url": "https://store.epicgames.com/p/citizen-sleeper-944858"
+  },
+  {
+    "id": "aee7ec395d054078a48d867849e2a550",
+    "title": "ROBOBEAT",
+    "image": "https://cdn1.epicgames.com/spt-assets/91105717b53044ed8e384e5fada71db8/robobeat-1ojda.png",
+    "originalPrice": "¥70.00",
+    "endDate": "2026-06-25T15:00:00.000Z",
+    "startDate": "2026-06-18T15:00:00.000Z",
+    "slug": "robobeat-5f084b",
+    "url": "https://store.epicgames.com/p/robobeat-5f084b"
   }
 ]
