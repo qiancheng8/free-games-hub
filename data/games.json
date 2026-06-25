@@ -1,33 +1,5 @@
 [
   {
-    "id": "ea365d314ecf4224a5f58d2d7430e7aa",
-    "title": "深空梦里人",
-    "description": "在星际资本主义的废墟里体验出逃员工的人生，如丧家之犬般游荡在寰宇社会边缘的法外空间站。本作承袭桌上角色扮演游戏的灵活性与自由度，玩家可以尽情探索空间站，自主决定与谁交好，逃离过去，改变未来。",
-    "image": "https://cdn1.epicgames.com/spt-assets/919d5976f3804d4cabb8ca90ea43a956/citizen-sleeper-17dh5.jpg",
-    "originalPrice": "¥62.00",
-    "startDate": "2026-06-18T15:00:00.000Z",
-    "endDate": "2026-06-25T15:00:00.000Z",
-    "slug": "citizen-sleeper-944858",
-    "url": "https://store.epicgames.com/p/citizen-sleeper-944858",
-    "isCurrent": true,
-    "seller": "Surprise Attack Pty Ltd DBA Fellow Traveller Games",
-    "fetchedAt": "2026-06-25T09:44:26.849Z"
-  },
-  {
-    "id": "aee7ec395d054078a48d867849e2a550",
-    "title": "ROBOBEAT",
-    "description": "永远不要松开扣动扳机的手指！在音游射击游戏《ROBOBEAT》中，你将扮演正在执行任务的赏金猎手Ace，你要做的就是在叛乱机器人Frazzer的变换巢穴中将其抓捕。通过飞檐走壁、滑铲与节奏射击来突破机器人军团，追逐你的目标吧。",
-    "image": "https://cdn1.epicgames.com/spt-assets/91105717b53044ed8e384e5fada71db8/robobeat-1ojda.png",
-    "originalPrice": "¥70.00",
-    "startDate": "2026-06-18T15:00:00.000Z",
-    "endDate": "2026-06-25T15:00:00.000Z",
-    "slug": "robobeat-5f084b",
-    "url": "https://store.epicgames.com/p/robobeat-5f084b",
-    "isCurrent": true,
-    "seller": "Kwalee",
-    "fetchedAt": "2026-06-25T09:44:26.850Z"
-  },
-  {
     "id": "bbccf66ad70e492d812e031e17f93b9d",
     "title": "Voidwrought",
     "description": "《Voidwrought》是一款设定在宇宙恐怖世界中的手绘2D动作类平台游戏。探索第一文明留下的冰雪逐渐消融的遗迹，击败栖身在那里的众神。不断提升你的力量，发现远古神器，在残垣断壁之间扩张你的神庙吧！",
@@ -37,8 +9,36 @@
     "endDate": "2026-07-02T15:00:00.000Z",
     "slug": "voidwrought-ce8f4b",
     "url": "https://store.epicgames.com/p/voidwrought-ce8f4b",
-    "isCurrent": false,
+    "isCurrent": true,
     "seller": "Kwalee",
-    "fetchedAt": "2026-06-25T09:44:26.850Z"
+    "fetchedAt": "2026-06-25T15:13:08.821Z"
+  },
+  {
+    "id": "9bf3d3188d1e498095bc23c0955538d9",
+    "title": "热血硬派国夫君外传 热血少女2",
+    "description": "Higher stakes. Meaner streets. The River City Girls are back in action!",
+    "image": "https://cdn1.epicgames.com/spt-assets/dfdcd48c05c6483284cb40b333dc71e4/river-city-girls-2-1hqkv.png",
+    "originalPrice": "¥128.00",
+    "startDate": "2026-07-02T15:00:00.000Z",
+    "endDate": "2026-07-09T15:00:00.000Z",
+    "slug": "river-city-girls-2-77af3a",
+    "url": "https://store.epicgames.com/p/river-city-girls-2-77af3a",
+    "isCurrent": false,
+    "seller": "WayForward",
+    "fetchedAt": "2026-06-25T15:13:08.821Z"
+  },
+  {
+    "id": "4ef54d5829b04656902dfa1f29b3b732",
+    "title": "I Have No Mouth, and I Must Scream",
+    "description": "The Allied Mastercomputer has destroyed all of humanity except for five people, whom it has been keeping them alive and torturing them for the past one hundred and nine years by designing virtual adventures based on their fears and weaknesses.",
+    "image": "https://cdn1.epicgames.com/spt-assets/b153ccd09d834353a8f27ffa9b41f5a2/i-have-no-mouth-and-i-must-scream-163j8.png",
+    "originalPrice": "¥31.00",
+    "startDate": "2026-07-02T15:00:00.000Z",
+    "endDate": "2026-07-09T15:00:00.000Z",
+    "slug": "i-have-no-mouth-and-i-must-scream-95c5c2",
+    "url": "https://store.epicgames.com/p/i-have-no-mouth-and-i-must-scream-95c5c2",
+    "isCurrent": false,
+    "seller": "Night Dive Studios, Inc.",
+    "fetchedAt": "2026-06-25T15:13:08.821Z"
   }
 ]
