@@ -128,5 +128,25 @@
     "startDate": "2026-07-02T15:00:00.000Z",
     "slug": "i-have-no-mouth-and-i-must-scream-95c5c2",
     "url": "https://store.epicgames.com/p/i-have-no-mouth-and-i-must-scream-95c5c2"
+  },
+  {
+    "id": "e5da2c017d4d4afab9f4c56525b66100",
+    "title": "Nova Lands",
+    "image": "https://cdn1.epicgames.com/spt-assets/9a2764693c414ecda63d8f785452a4bb/nova-lands-offer-16wzy.png",
+    "originalPrice": "¥80.00",
+    "endDate": "2026-07-16T15:00:00.000Z",
+    "startDate": "2026-07-09T15:00:00.000Z",
+    "slug": "nova-lands-4d1788",
+    "url": "https://store.epicgames.com/p/nova-lands-4d1788"
+  },
+  {
+    "id": "f247e0af293645bda266fa9957d82d62",
+    "title": "纹身大亨",
+    "image": "https://cdn1.epicgames.com/spt-assets/0b68dfc82a014fe2ac9971f13e0e3ce5/tattoo-tycoon-11qwx.jpg",
+    "originalPrice": "¥130.00",
+    "endDate": "2026-07-16T15:00:00.000Z",
+    "startDate": "2026-07-09T15:00:00.000Z",
+    "slug": "tattoo-tycoon-b4352c",
+    "url": "https://store.epicgames.com/p/tattoo-tycoon-b4352c"
   }
 ]
