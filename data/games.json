@@ -1,19 +1,5 @@
 [
   {
-    "id": "e5da2c017d4d4afab9f4c56525b66100",
-    "title": "Nova Lands",
-    "description": "《Nova Lands》是一款着眼于工厂建造、探索以及岛屿管理的开放世界游戏。探索脚下的星球，依托乐于助人的机器人打造自动化工厂，并且通过武力或谈判手段克服重重挑战与任务。欢迎来到群星之间的新家园！",
-    "image": "https://cdn1.epicgames.com/spt-assets/9a2764693c414ecda63d8f785452a4bb/nova-lands-offer-16wzy.png",
-    "originalPrice": "¥80.00",
-    "startDate": "2026-07-09T15:00:00.000Z",
-    "endDate": "2026-07-16T15:00:00.000Z",
-    "slug": "nova-lands-4d1788",
-    "url": "https://store.epicgames.com/p/nova-lands-4d1788",
-    "isCurrent": true,
-    "seller": "Hypetrain Digital",
-    "fetchedAt": "2026-07-16T14:22:13.387Z"
-  },
-  {
     "id": "c27f2bb0dd9b4c4ca4973e653ab8a5be",
     "title": "Luto",
     "description": "Luto is a psychological horror experience where you take on the role of someone unable to leave their home. Every attempt to escape will lead you deeper into the unknown, where nothing is as it seems and everything will test your senses.",
@@ -23,23 +9,9 @@
     "endDate": "2026-07-23T15:00:00.000Z",
     "slug": "luto-0a4ab3",
     "url": "https://store.epicgames.com/p/luto-0a4ab3",
-    "isCurrent": false,
-    "seller": "Broken Bird Games",
-    "fetchedAt": "2026-07-16T14:22:13.387Z"
-  },
-  {
-    "id": "f247e0af293645bda266fa9957d82d62",
-    "title": "纹身大亨",
-    "description": "成为一名纹身师，经营属于你自己的纹身店。帮各种古怪的顾客找到最适合他们的设计，将他们模糊的想法转变为令人瞠目结舌的身体艺术作品。从一间温馨的个人工作室向各个风格迥异的地区扩张，最终发展为遍及整个塔图加湾的繁荣连锁店。",
-    "image": "https://cdn1.epicgames.com/spt-assets/0b68dfc82a014fe2ac9971f13e0e3ce5/tattoo-tycoon-11qwx.jpg",
-    "originalPrice": "¥130.00",
-    "startDate": "2026-07-09T15:00:00.000Z",
-    "endDate": "2026-07-16T15:00:00.000Z",
-    "slug": "tattoo-tycoon-b4352c",
-    "url": "https://store.epicgames.com/p/tattoo-tycoon-b4352c",
     "isCurrent": true,
-    "seller": "Handy Games",
-    "fetchedAt": "2026-07-16T14:22:13.387Z"
+    "seller": "Broken Bird Games",
+    "fetchedAt": "2026-07-16T19:33:58.500Z"
   },
   {
     "id": "371545146a944478ad5a87f9b581ac29",
@@ -51,8 +23,8 @@
     "endDate": "2026-07-23T15:00:00.000Z",
     "slug": "echo-generation-midnight-edition-069026",
     "url": "https://store.epicgames.com/p/echo-generation-midnight-edition-069026",
-    "isCurrent": false,
+    "isCurrent": true,
     "seller": "Cococucumber Inc",
-    "fetchedAt": "2026-07-16T14:22:13.387Z"
+    "fetchedAt": "2026-07-16T19:33:58.500Z"
   }
 ]
