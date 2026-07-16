@@ -1,19 +1,5 @@
 [
   {
-    "id": "223c59e227e74e079a1bbe5a234b896f",
-    "title": "《Foretales》",
-    "description": "在这个剧情丰富的卡牌游戏中主宰世界的命运。\n\n你可以在《Foretales》中以独特视角展开冒险，通过多种玩法风格和故事线拯救世界……或带来毁灭。",
-    "image": "https://cdn1.epicgames.com/spt-assets/2b593b82aea84695b1608d74d3850ceb/foretales-offer-urvzn.jpg",
-    "originalPrice": "¥68.00",
-    "startDate": "2026-07-23T15:00:00.000Z",
-    "endDate": "2026-07-30T15:00:00.000Z",
-    "slug": "foretales-d6c5bd",
-    "url": "https://store.epicgames.com/p/foretales-d6c5bd",
-    "isCurrent": false,
-    "seller": "Plug In Digital SAS",
-    "fetchedAt": "2026-07-15T19:36:15.659Z"
-  },
-  {
     "id": "e5da2c017d4d4afab9f4c56525b66100",
     "title": "Nova Lands",
     "description": "《Nova Lands》是一款着眼于工厂建造、探索以及岛屿管理的开放世界游戏。探索脚下的星球，依托乐于助人的机器人打造自动化工厂，并且通过武力或谈判手段克服重重挑战与任务。欢迎来到群星之间的新家园！",
@@ -25,7 +11,7 @@
     "url": "https://store.epicgames.com/p/nova-lands-4d1788",
     "isCurrent": true,
     "seller": "Hypetrain Digital",
-    "fetchedAt": "2026-07-15T19:36:15.659Z"
+    "fetchedAt": "2026-07-16T03:36:32.641Z"
   },
   {
     "id": "c27f2bb0dd9b4c4ca4973e653ab8a5be",
@@ -39,7 +25,7 @@
     "url": "https://store.epicgames.com/p/luto-0a4ab3",
     "isCurrent": false,
     "seller": "Broken Bird Games",
-    "fetchedAt": "2026-07-15T19:36:15.659Z"
+    "fetchedAt": "2026-07-16T03:36:32.641Z"
   },
   {
     "id": "f247e0af293645bda266fa9957d82d62",
@@ -53,7 +39,7 @@
     "url": "https://store.epicgames.com/p/tattoo-tycoon-b4352c",
     "isCurrent": true,
     "seller": "Handy Games",
-    "fetchedAt": "2026-07-15T19:36:15.659Z"
+    "fetchedAt": "2026-07-16T03:36:32.641Z"
   },
   {
     "id": "371545146a944478ad5a87f9b581ac29",
@@ -67,6 +53,6 @@
     "url": "https://store.epicgames.com/p/echo-generation-midnight-edition-069026",
     "isCurrent": false,
     "seller": "Cococucumber Inc",
-    "fetchedAt": "2026-07-15T19:36:15.659Z"
+    "fetchedAt": "2026-07-16T03:36:32.641Z"
   }
 ]
