@@ -1,5 +1,19 @@
 [
   {
+    "id": "223c59e227e74e079a1bbe5a234b896f",
+    "title": "《Foretales》",
+    "description": "在这个剧情丰富的卡牌游戏中主宰世界的命运。\n\n你可以在《Foretales》中以独特视角展开冒险，通过多种玩法风格和故事线拯救世界……或带来毁灭。",
+    "image": "https://cdn1.epicgames.com/spt-assets/2b593b82aea84695b1608d74d3850ceb/foretales-offer-urvzn.jpg",
+    "originalPrice": "¥68.00",
+    "startDate": "2026-07-23T15:00:00.000Z",
+    "endDate": "2026-07-30T15:00:00.000Z",
+    "slug": "foretales-d6c5bd",
+    "url": "https://store.epicgames.com/p/foretales-d6c5bd",
+    "isCurrent": true,
+    "seller": "Plug In Digital SAS",
+    "fetchedAt": "2026-07-29T03:39:04.748Z"
+  },
+  {
     "id": "c71375f1ac9444fcae1ca584a53ba6f0",
     "title": "Sol Cesto",
     "description": "在这款考验战术规划的轻度 Rogue 游戏里，命运得牢牢掌握在自己手中。选择一名英雄，直抵随机地牢最深层。世事无情，每个选择都会产生一定的后果……",
@@ -11,6 +25,6 @@
     "url": "https://store.epicgames.com/p/sol-cesto-e9b803",
     "isCurrent": false,
     "seller": "Goblinz Studio SAS",
-    "fetchedAt": "2026-07-28T19:52:45.495Z"
+    "fetchedAt": "2026-07-29T03:39:04.748Z"
   }
 ]
