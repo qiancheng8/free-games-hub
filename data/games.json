@@ -11,7 +11,7 @@
     "url": "https://store.epicgames.com/p/beacon-pines-629fc3",
     "isCurrent": false,
     "seller": "Surprise Attack Pty Ltd DBA Fellow Traveller Games",
-    "fetchedAt": "2026-07-30T14:31:09.435Z"
+    "fetchedAt": "2026-07-30T19:51:34.199Z"
   },
   {
     "id": "231e8f6d250a453f9c44c0adf3a34656",
@@ -25,7 +25,21 @@
     "url": "https://store.epicgames.com/p/we-were-here-together-6a6d66",
     "isCurrent": false,
     "seller": "TMG Studios B.V.",
-    "fetchedAt": "2026-07-30T14:31:09.435Z"
+    "fetchedAt": "2026-07-30T19:51:34.200Z"
+  },
+  {
+    "id": "fb86769d4908427986ca9f7d94b581c2",
+    "title": "OTXO",
+    "description": "这是一款残暴又黑暗的快节奏肉鸽风格游戏，充满既精准又粗犷的枪战以及令时间弯曲的慢动作。在这款游戏中，玩家将进入一个迷雾重重的抽象豪宅，去拯救所爱的人。",
+    "image": "https://cdn1.epicgames.com/spt-assets/f6da0031691c4d94a6e21255b18c1710/otxo-wtcug.jpg",
+    "originalPrice": "¥47.00",
+    "startDate": "2026-07-30T15:00:00.000Z",
+    "endDate": "2026-08-06T15:00:00.000Z",
+    "slug": "otxo-396b8b",
+    "url": "https://store.epicgames.com/p/otxo-396b8b",
+    "isCurrent": true,
+    "seller": "Super Rare Games",
+    "fetchedAt": "2026-07-30T19:51:34.200Z"
   },
   {
     "id": "c71375f1ac9444fcae1ca584a53ba6f0",
@@ -37,8 +51,8 @@
     "endDate": "2026-08-06T15:00:00.000Z",
     "slug": "sol-cesto-e9b803",
     "url": "https://store.epicgames.com/p/sol-cesto-e9b803",
-    "isCurrent": false,
+    "isCurrent": true,
     "seller": "Goblinz Studio SAS",
-    "fetchedAt": "2026-07-30T14:31:09.435Z"
+    "fetchedAt": "2026-07-30T19:51:34.200Z"
   }
 ]

@@ -178,5 +178,25 @@
     "startDate": "2026-07-23T15:00:00.000Z",
     "slug": "foretales-d6c5bd",
     "url": "https://store.epicgames.com/p/foretales-d6c5bd"
+  },
+  {
+    "id": "fb86769d4908427986ca9f7d94b581c2",
+    "title": "OTXO",
+    "image": "https://cdn1.epicgames.com/spt-assets/f6da0031691c4d94a6e21255b18c1710/otxo-wtcug.jpg",
+    "originalPrice": "¥47.00",
+    "endDate": "2026-08-06T15:00:00.000Z",
+    "startDate": "2026-07-30T15:00:00.000Z",
+    "slug": "otxo-396b8b",
+    "url": "https://store.epicgames.com/p/otxo-396b8b"
+  },
+  {
+    "id": "c71375f1ac9444fcae1ca584a53ba6f0",
+    "title": "Sol Cesto",
+    "image": "https://cdn1.epicgames.com/spt-assets/30d70e74bab1498686aba69969a6c19e/sol-cesto-1ara2.png",
+    "originalPrice": "¥56.00",
+    "endDate": "2026-08-06T15:00:00.000Z",
+    "startDate": "2026-07-30T15:00:00.000Z",
+    "slug": "sol-cesto-e9b803",
+    "url": "https://store.epicgames.com/p/sol-cesto-e9b803"
   }
 ]
