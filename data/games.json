@@ -11,7 +11,21 @@
     "url": "https://store.epicgames.com/p/beacon-pines-629fc3",
     "isCurrent": false,
     "seller": "Surprise Attack Pty Ltd DBA Fellow Traveller Games",
-    "fetchedAt": "2026-07-30T08:49:23.629Z"
+    "fetchedAt": "2026-07-30T14:31:09.435Z"
+  },
+  {
+    "id": "231e8f6d250a453f9c44c0adf3a34656",
+    "title": "We Were Here Together",
+    "description": "自踏足这片荒芜的冻原起，我们接二连三遇到怪事。咆哮的暴风雪，黑夜中的信号弹，还有无线电上断断续续的求救信号...但除了我们，没人能援救这群受困的人。但我们能活着回来呢？能一起回来么？",
+    "image": "https://cdn1.epicgames.com/spt-assets/f24f7e149dc64df18f14dfab4f6dae4d/we-were-here-together-1w9jc.png",
+    "originalPrice": "¥40.00",
+    "startDate": "2026-08-06T15:00:00.000Z",
+    "endDate": "2026-08-13T15:00:00.000Z",
+    "slug": "we-were-here-together-6a6d66",
+    "url": "https://store.epicgames.com/p/we-were-here-together-6a6d66",
+    "isCurrent": false,
+    "seller": "TMG Studios B.V.",
+    "fetchedAt": "2026-07-30T14:31:09.435Z"
   },
   {
     "id": "c71375f1ac9444fcae1ca584a53ba6f0",
@@ -25,6 +39,6 @@
     "url": "https://store.epicgames.com/p/sol-cesto-e9b803",
     "isCurrent": false,
     "seller": "Goblinz Studio SAS",
-    "fetchedAt": "2026-07-30T08:49:23.629Z"
+    "fetchedAt": "2026-07-30T14:31:09.435Z"
   }
 ]
