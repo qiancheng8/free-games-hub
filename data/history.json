@@ -198,5 +198,25 @@
     "startDate": "2026-07-30T15:00:00.000Z",
     "slug": "sol-cesto-e9b803",
     "url": "https://store.epicgames.com/p/sol-cesto-e9b803"
+  },
+  {
+    "id": "871cc4ff18444059890a4d28653a62d5",
+    "title": "Beacon Pines",
+    "image": "https://cdn1.epicgames.com/spt-assets/c89a3b955d704c3c97ddd2aba5265a38/beacon-pines-offer-1l6ky.jpg",
+    "originalPrice": "¥62.00",
+    "endDate": "2026-08-13T15:00:00.000Z",
+    "startDate": "2026-08-06T15:00:00.000Z",
+    "slug": "beacon-pines-629fc3",
+    "url": "https://store.epicgames.com/p/beacon-pines-629fc3"
+  },
+  {
+    "id": "231e8f6d250a453f9c44c0adf3a34656",
+    "title": "We Were Here Together",
+    "image": "https://cdn1.epicgames.com/spt-assets/f24f7e149dc64df18f14dfab4f6dae4d/we-were-here-together-1w9jc.png",
+    "originalPrice": "¥40.00",
+    "endDate": "2026-08-13T15:00:00.000Z",
+    "startDate": "2026-08-06T15:00:00.000Z",
+    "slug": "we-were-here-together-6a6d66",
+    "url": "https://store.epicgames.com/p/we-were-here-together-6a6d66"
   }
 ]

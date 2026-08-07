@@ -9,9 +9,9 @@
     "endDate": "2026-08-13T15:00:00.000Z",
     "slug": "beacon-pines-629fc3",
     "url": "https://store.epicgames.com/p/beacon-pines-629fc3",
-    "isCurrent": false,
+    "isCurrent": true,
     "seller": "Surprise Attack Pty Ltd DBA Fellow Traveller Games",
-    "fetchedAt": "2026-08-06T14:34:16.455Z"
+    "fetchedAt": "2026-08-07T00:15:00.866Z"
   },
   {
     "id": "0e44600a079e419abbb291ccf5af9ee7",
@@ -25,7 +25,7 @@
     "url": "https://store.epicgames.com/p/caravan-sandwitch-05ff58",
     "isCurrent": false,
     "seller": "Plug In Digital SAS",
-    "fetchedAt": "2026-08-06T14:34:16.456Z"
+    "fetchedAt": "2026-08-07T00:15:00.866Z"
   },
   {
     "id": "231e8f6d250a453f9c44c0adf3a34656",
@@ -37,36 +37,8 @@
     "endDate": "2026-08-13T15:00:00.000Z",
     "slug": "we-were-here-together-6a6d66",
     "url": "https://store.epicgames.com/p/we-were-here-together-6a6d66",
-    "isCurrent": false,
+    "isCurrent": true,
     "seller": "TMG Studios B.V.",
-    "fetchedAt": "2026-08-06T14:34:16.456Z"
-  },
-  {
-    "id": "fb86769d4908427986ca9f7d94b581c2",
-    "title": "OTXO",
-    "description": "这是一款残暴又黑暗的快节奏肉鸽风格游戏，充满既精准又粗犷的枪战以及令时间弯曲的慢动作。在这款游戏中，玩家将进入一个迷雾重重的抽象豪宅，去拯救所爱的人。",
-    "image": "https://cdn1.epicgames.com/spt-assets/f6da0031691c4d94a6e21255b18c1710/otxo-wtcug.jpg",
-    "originalPrice": "¥47.00",
-    "startDate": "2026-07-30T15:00:00.000Z",
-    "endDate": "2026-08-06T15:00:00.000Z",
-    "slug": "otxo-396b8b",
-    "url": "https://store.epicgames.com/p/otxo-396b8b",
-    "isCurrent": true,
-    "seller": "Super Rare Games",
-    "fetchedAt": "2026-08-06T14:34:16.456Z"
-  },
-  {
-    "id": "c71375f1ac9444fcae1ca584a53ba6f0",
-    "title": "Sol Cesto",
-    "description": "在这款考验战术规划的轻度 Rogue 游戏里，命运得牢牢掌握在自己手中。选择一名英雄，直抵随机地牢最深层。世事无情，每个选择都会产生一定的后果……",
-    "image": "https://cdn1.epicgames.com/spt-assets/30d70e74bab1498686aba69969a6c19e/sol-cesto-1ara2.png",
-    "originalPrice": "¥56.00",
-    "startDate": "2026-07-30T15:00:00.000Z",
-    "endDate": "2026-08-06T15:00:00.000Z",
-    "slug": "sol-cesto-e9b803",
-    "url": "https://store.epicgames.com/p/sol-cesto-e9b803",
-    "isCurrent": true,
-    "seller": "Goblinz Studio SAS",
-    "fetchedAt": "2026-08-06T14:34:16.456Z"
+    "fetchedAt": "2026-08-07T00:15:00.866Z"
   }
 ]
