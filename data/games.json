@@ -11,21 +11,7 @@
     "url": "https://store.epicgames.com/p/cardpocalypse",
     "isCurrent": false,
     "seller": "Gambrinous",
-    "fetchedAt": "2026-08-13T13:46:29.769Z"
-  },
-  {
-    "id": "871cc4ff18444059890a4d28653a62d5",
-    "title": "Beacon Pines",
-    "description": "Beacon Pines is a cute and creepy adventure game. Sneak out late, make new friends, uncover hidden truths, and collect words that will change the course of fate!",
-    "image": "https://cdn1.epicgames.com/spt-assets/c89a3b955d704c3c97ddd2aba5265a38/beacon-pines-offer-1l6ky.jpg",
-    "originalPrice": "¥62.00",
-    "startDate": "2026-08-06T15:00:00.000Z",
-    "endDate": "2026-08-13T15:00:00.000Z",
-    "slug": "beacon-pines-629fc3",
-    "url": "https://store.epicgames.com/p/beacon-pines-629fc3",
-    "isCurrent": true,
-    "seller": "Surprise Attack Pty Ltd DBA Fellow Traveller Games",
-    "fetchedAt": "2026-08-13T13:46:29.769Z"
+    "fetchedAt": "2026-08-13T19:19:12.769Z"
   },
   {
     "id": "0e44600a079e419abbb291ccf5af9ee7",
@@ -37,22 +23,22 @@
     "endDate": "2026-08-20T15:00:00.000Z",
     "slug": "caravan-sandwitch-05ff58",
     "url": "https://store.epicgames.com/p/caravan-sandwitch-05ff58",
-    "isCurrent": false,
+    "isCurrent": true,
     "seller": "Plug In Digital SAS",
-    "fetchedAt": "2026-08-13T13:46:29.769Z"
+    "fetchedAt": "2026-08-13T19:19:12.769Z"
   },
   {
-    "id": "231e8f6d250a453f9c44c0adf3a34656",
-    "title": "We Were Here Together",
-    "description": "自踏足这片荒芜的冻原起，我们接二连三遇到怪事。咆哮的暴风雪，黑夜中的信号弹，还有无线电上断断续续的求救信号...但除了我们，没人能援救这群受困的人。但我们能活着回来呢？能一起回来么？",
-    "image": "https://cdn1.epicgames.com/spt-assets/f24f7e149dc64df18f14dfab4f6dae4d/we-were-here-together-1w9jc.png",
-    "originalPrice": "¥40.00",
-    "startDate": "2026-08-06T15:00:00.000Z",
-    "endDate": "2026-08-13T15:00:00.000Z",
-    "slug": "we-were-here-together-6a6d66",
-    "url": "https://store.epicgames.com/p/we-were-here-together-6a6d66",
-    "isCurrent": true,
-    "seller": "TMG Studios B.V.",
-    "fetchedAt": "2026-08-13T13:46:29.769Z"
+    "id": "a802acab90af4a07952a07a9fa677f2f",
+    "title": "史诗法师礼包",
+    "description": "领取价值超过55美元的奇幻免费礼物！通过附魔时装物品、两款独特的坐骑皮肤以及大量的成长奖励，丰富你的阿尔比恩冒险之旅。",
+    "image": "https://cdn1.epicgames.com/spt-assets/92837229023341268267ff64cae425a5/albion-online-1axyc.png",
+    "originalPrice": "0",
+    "startDate": "2026-08-20T15:00:00.000Z",
+    "endDate": "2026-08-27T15:00:00.000Z",
+    "slug": "albion-online-7eb24d",
+    "url": "https://store.epicgames.com/p/albion-online-7eb24d",
+    "isCurrent": false,
+    "seller": "Sandbox Interactive GmbH",
+    "fetchedAt": "2026-08-13T19:19:12.769Z"
   }
 ]
