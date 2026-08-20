@@ -11,7 +11,7 @@
     "url": "https://store.epicgames.com/p/cardpocalypse",
     "isCurrent": false,
     "seller": "Gambrinous",
-    "fetchedAt": "2026-08-19T18:52:37.037Z"
+    "fetchedAt": "2026-08-20T01:50:57.330Z"
   },
   {
     "id": "0e44600a079e419abbb291ccf5af9ee7",
@@ -25,7 +25,7 @@
     "url": "https://store.epicgames.com/p/caravan-sandwitch-05ff58",
     "isCurrent": true,
     "seller": "Plug In Digital SAS",
-    "fetchedAt": "2026-08-19T18:52:37.037Z"
+    "fetchedAt": "2026-08-20T01:50:57.330Z"
   },
   {
     "id": "a802acab90af4a07952a07a9fa677f2f",
@@ -39,6 +39,6 @@
     "url": "https://store.epicgames.com/p/albion-online-7eb24d",
     "isCurrent": false,
     "seller": "Sandbox Interactive GmbH",
-    "fetchedAt": "2026-08-19T18:52:37.037Z"
+    "fetchedAt": "2026-08-20T01:50:57.330Z"
   }
 ]
