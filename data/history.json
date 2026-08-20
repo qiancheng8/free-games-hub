@@ -228,5 +228,25 @@
     "startDate": "2026-08-13T15:00:00.000Z",
     "slug": "caravan-sandwitch-05ff58",
     "url": "https://store.epicgames.com/p/caravan-sandwitch-05ff58"
+  },
+  {
+    "id": "b467b7d3570e44c0b84e59475f4a5636",
+    "title": "《Cardpocalypse Standard Edition》",
+    "image": "https://cdn1.epicgames.com/offer/2bfd5ca43ef443739ada168e017e1b78/s1_2560x1440-8d68e37943d666ad0f05093481c4d7df",
+    "originalPrice": "¥84.00",
+    "endDate": "2026-08-27T15:00:00.000Z",
+    "startDate": "2026-08-20T15:00:00.000Z",
+    "slug": "cardpocalypse",
+    "url": "https://store.epicgames.com/p/cardpocalypse"
+  },
+  {
+    "id": "a802acab90af4a07952a07a9fa677f2f",
+    "title": "史诗法师礼包",
+    "image": "https://cdn1.epicgames.com/spt-assets/92837229023341268267ff64cae425a5/albion-online-1axyc.png",
+    "originalPrice": "0",
+    "endDate": "2026-08-27T15:00:00.000Z",
+    "startDate": "2026-08-20T15:00:00.000Z",
+    "slug": "albion-online-7eb24d",
+    "url": "https://store.epicgames.com/p/albion-online-7eb24d"
   }
 ]
