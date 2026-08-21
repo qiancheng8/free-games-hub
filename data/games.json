@@ -11,7 +11,21 @@
     "url": "https://store.epicgames.com/p/cardpocalypse",
     "isCurrent": true,
     "seller": "Gambrinous",
-    "fetchedAt": "2026-08-21T01:56:45.761Z"
+    "fetchedAt": "2026-08-21T07:06:37.178Z"
+  },
+  {
+    "id": "8401414902e84f2cb9afa9142f051d32",
+    "title": "《Breathedge》",
+    "description": "在外太空生存下来！和永生鸡一起，发现突如其来太空船事故背后隐藏的真相。打造工具，驾驶载具，控制整个空间站，生存下来并探索残骸。",
+    "image": "https://cdn1.epicgames.com/08ae29e4f70a4b62aa055e383381aa82/offer/egs-breathedge-redruinssoftworks-s1-2560x1440-76fd08cd9c2d-2560x1440-783424f6d4a7f32a0e75fc074f2f928e.jpg",
+    "originalPrice": "¥92.00",
+    "startDate": "2026-08-27T15:00:00.000Z",
+    "endDate": "2026-09-03T15:00:00.000Z",
+    "slug": "breathedge",
+    "url": "https://store.epicgames.com/p/breathedge",
+    "isCurrent": false,
+    "seller": "Hypetrain Digital",
+    "fetchedAt": "2026-08-21T07:06:37.178Z"
   },
   {
     "id": "a802acab90af4a07952a07a9fa677f2f",
@@ -25,7 +39,7 @@
     "url": "https://store.epicgames.com/p/albion-online-7eb24d",
     "isCurrent": true,
     "seller": "Sandbox Interactive GmbH",
-    "fetchedAt": "2026-08-21T01:56:45.762Z"
+    "fetchedAt": "2026-08-21T07:06:37.178Z"
   },
   {
     "id": "8f1fcf01e32e4fd4b2ae0a9737992760",
@@ -39,6 +53,6 @@
     "url": "https://store.epicgames.com/p/rival-stars-horse-racing-dd09de",
     "isCurrent": false,
     "seller": "Prodigy Design Ltd",
-    "fetchedAt": "2026-08-21T01:56:45.762Z"
+    "fetchedAt": "2026-08-21T07:06:37.178Z"
   }
 ]
