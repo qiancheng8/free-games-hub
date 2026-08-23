@@ -11,7 +11,7 @@
     "url": "https://store.epicgames.com/p/cardpocalypse",
     "isCurrent": true,
     "seller": "Gambrinous",
-    "fetchedAt": "2026-08-23T01:59:23.607Z"
+    "fetchedAt": "2026-08-23T07:00:29.375Z"
   },
   {
     "id": "a802acab90af4a07952a07a9fa677f2f",
@@ -25,7 +25,7 @@
     "url": "https://store.epicgames.com/p/albion-online-7eb24d",
     "isCurrent": true,
     "seller": "Sandbox Interactive GmbH",
-    "fetchedAt": "2026-08-23T01:59:23.607Z"
+    "fetchedAt": "2026-08-23T07:00:29.376Z"
   },
   {
     "id": "8f1fcf01e32e4fd4b2ae0a9737992760",
@@ -39,6 +39,6 @@
     "url": "https://store.epicgames.com/p/rival-stars-horse-racing-dd09de",
     "isCurrent": false,
     "seller": "Prodigy Design Ltd",
-    "fetchedAt": "2026-08-23T01:59:23.607Z"
+    "fetchedAt": "2026-08-23T07:00:29.376Z"
   }
 ]
