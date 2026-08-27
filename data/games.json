@@ -1,19 +1,5 @@
 [
   {
-    "id": "b467b7d3570e44c0b84e59475f4a5636",
-    "title": "《Cardpocalypse Standard Edition》",
-    "description": "10岁的杰西意外地让大家最喜欢玩的收集卡牌游戏在达斯代尔小学被禁止了。更糟的是，这是她的第一天！但麻烦出现了，游戏里的异形开始来到现实世界，只能靠杰西和她的朋友来阻止它们。成为一只超级异形能量宠物的主人来拯救这所学校……或许乃至整个世界。",
-    "image": "https://cdn1.epicgames.com/offer/2bfd5ca43ef443739ada168e017e1b78/s1_2560x1440-8d68e37943d666ad0f05093481c4d7df",
-    "originalPrice": "¥84.00",
-    "startDate": "2026-08-20T15:00:00.000Z",
-    "endDate": "2026-08-27T15:00:00.000Z",
-    "slug": "cardpocalypse",
-    "url": "https://store.epicgames.com/p/cardpocalypse",
-    "isCurrent": true,
-    "seller": "Gambrinous",
-    "fetchedAt": "2026-08-27T09:48:19.645Z"
-  },
-  {
     "id": "8401414902e84f2cb9afa9142f051d32",
     "title": "《Breathedge》",
     "description": "在外太空生存下来！和永生鸡一起，发现突如其来太空船事故背后隐藏的真相。打造工具，驾驶载具，控制整个空间站，生存下来并探索残骸。",
@@ -23,23 +9,9 @@
     "endDate": "2026-09-03T15:00:00.000Z",
     "slug": "breathedge",
     "url": "https://store.epicgames.com/p/breathedge",
-    "isCurrent": false,
-    "seller": "Hypetrain Digital",
-    "fetchedAt": "2026-08-27T09:48:19.645Z"
-  },
-  {
-    "id": "a802acab90af4a07952a07a9fa677f2f",
-    "title": "史诗法师礼包",
-    "description": "领取价值超过55美元的奇幻免费礼物！通过附魔时装物品、两款独特的坐骑皮肤以及大量的成长奖励，丰富你的阿尔比恩冒险之旅。",
-    "image": "https://cdn1.epicgames.com/spt-assets/92837229023341268267ff64cae425a5/albion-online-1axyc.png",
-    "originalPrice": "0",
-    "startDate": "2026-08-20T15:00:00.000Z",
-    "endDate": "2026-08-27T15:00:00.000Z",
-    "slug": "albion-online-7eb24d",
-    "url": "https://store.epicgames.com/p/albion-online-7eb24d",
     "isCurrent": true,
-    "seller": "Sandbox Interactive GmbH",
-    "fetchedAt": "2026-08-27T09:48:19.645Z"
+    "seller": "Hypetrain Digital",
+    "fetchedAt": "2026-08-27T22:15:37.129Z"
   },
   {
     "id": "8f1fcf01e32e4fd4b2ae0a9737992760",
@@ -51,8 +23,22 @@
     "endDate": "2026-09-03T15:00:00.000Z",
     "slug": "rival-stars-horse-racing-dd09de",
     "url": "https://store.epicgames.com/p/rival-stars-horse-racing-dd09de",
-    "isCurrent": false,
+    "isCurrent": true,
     "seller": "Prodigy Design Ltd",
-    "fetchedAt": "2026-08-27T09:48:19.645Z"
+    "fetchedAt": "2026-08-27T22:15:37.129Z"
+  },
+  {
+    "id": "b8cc76ce7d6645f0a282b843a072cc78",
+    "title": "Alone With You",
+    "description": "ALONE WITH YOU is a sci-fi point-and-click adventure game that tells a rich story about relationships. You're the last survivor of a doomed space colony, trying to escape a planet before it implodes around you.",
+    "image": "https://cdn1.epicgames.com/spt-assets/04b7a1d78c904065b5c24f9e7816c99a/alone-with-you-cllc3.png",
+    "originalPrice": "¥31.00",
+    "startDate": "2026-09-03T15:00:00.000Z",
+    "endDate": "2026-09-10T15:00:00.000Z",
+    "slug": "alone-with-you-028a15",
+    "url": "https://store.epicgames.com/p/alone-with-you-028a15",
+    "isCurrent": false,
+    "seller": "BancyCo",
+    "fetchedAt": "2026-08-27T22:15:37.129Z"
   }
 ]
