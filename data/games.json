@@ -1,33 +1,5 @@
 [
   {
-    "id": "8401414902e84f2cb9afa9142f051d32",
-    "title": "《Breathedge》",
-    "description": "在外太空生存下来！和永生鸡一起，发现突如其来太空船事故背后隐藏的真相。打造工具，驾驶载具，控制整个空间站，生存下来并探索残骸。",
-    "image": "com.epicgames.video://16f73a6a-50c7-4fed-8415-c534d0c2220b?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Ff4845cccefe54b3c865c68596053a5c0%2Fbreathedge-video-1k0xw.png",
-    "originalPrice": "¥92.00",
-    "startDate": "2026-08-27T15:00:00.000Z",
-    "endDate": "2026-09-03T15:00:00.000Z",
-    "slug": "breathedge",
-    "url": "https://store.epicgames.com/p/breathedge",
-    "isCurrent": true,
-    "seller": "Hypetrain Digital",
-    "fetchedAt": "2026-09-03T11:13:53.801Z"
-  },
-  {
-    "id": "8f1fcf01e32e4fd4b2ae0a9737992760",
-    "title": "Rival Stars Horse Racing : Desktop Edition",
-    "description": "With stunning, realistic horses, an in-depth breeding system, and a range of exciting game modes, Rival Stars Horse Racing offers horse fans the ultimate racing and riding experience. Take the reins and become an equestrian legend!",
-    "image": "https://cdn1.epicgames.com/spt-assets/3355791f5b4740618adac242cf0dd46c/rival-stars-horse-racing-scu1x.jpg",
-    "originalPrice": "¥78.00",
-    "startDate": "2026-08-27T15:00:00.000Z",
-    "endDate": "2026-09-03T15:00:00.000Z",
-    "slug": "rival-stars-horse-racing-dd09de",
-    "url": "https://store.epicgames.com/p/rival-stars-horse-racing-dd09de",
-    "isCurrent": true,
-    "seller": "Prodigy Design Ltd",
-    "fetchedAt": "2026-09-03T11:13:53.802Z"
-  },
-  {
     "id": "b8cc76ce7d6645f0a282b843a072cc78",
     "title": "Alone With You",
     "description": "ALONE WITH YOU is a sci-fi point-and-click adventure game that tells a rich story about relationships. You're the last survivor of a doomed space colony, trying to escape a planet before it implodes around you.",
@@ -37,8 +9,36 @@
     "endDate": "2026-09-10T15:00:00.000Z",
     "slug": "alone-with-you-028a15",
     "url": "https://store.epicgames.com/p/alone-with-you-028a15",
-    "isCurrent": false,
+    "isCurrent": true,
     "seller": "BancyCo",
-    "fetchedAt": "2026-09-03T11:13:53.802Z"
+    "fetchedAt": "2026-09-03T16:25:13.408Z"
+  },
+  {
+    "id": "c76046dddcdb43619c33ce0395941033",
+    "title": "Luftrausers",
+    "description": "The skies are aflame and the seas will overflow with wreckage in Vlambeer’s stylish arcade shooter LUFTRAUSERS! Take to the skies in customized fighter planes to battle battleships, submarines, and rival aces for glory, honor, and high scores.",
+    "image": "https://cdn1.epicgames.com/spt-assets/85ddeeec9d4243b3a2d78aab87bfae7f/luftrausers-1mxb1.png",
+    "originalPrice": "¥31.00",
+    "startDate": "2026-09-10T15:00:00.000Z",
+    "endDate": "2026-09-17T15:00:00.000Z",
+    "slug": "luftrausers-51e5e9",
+    "url": "https://store.epicgames.com/p/luftrausers-51e5e9",
+    "isCurrent": false,
+    "seller": "Devolver Digital, Inc.",
+    "fetchedAt": "2026-09-03T16:25:13.408Z"
+  },
+  {
+    "id": "e9bb092228f544c582e2c9395fae96f3",
+    "title": "Astral Ascent",
+    "description": "《星界战士》（原名：星座上升）是一款以现代幻想世界为背景的2D平台rogue-lite游戏。作为4个性格迥异的英雄之一，你必须设法从花园逃离，这个大花园是一座由12个强大且邪恶的boss守护的星界监狱，另称“十二星宫”。",
+    "image": "https://cdn1.epicgames.com/spt-assets/974c8a587d714d8d9e0c3b0fefe61a35/astral-ascent-b0gcm.png",
+    "originalPrice": "¥78.00",
+    "startDate": "2026-09-10T15:00:00.000Z",
+    "endDate": "2026-09-17T15:00:00.000Z",
+    "slug": "astral-ascent-b33bc2",
+    "url": "https://store.epicgames.com/p/astral-ascent-b33bc2",
+    "isCurrent": false,
+    "seller": "Hibernian Workshop",
+    "fetchedAt": "2026-09-03T16:25:13.408Z"
   }
 ]
