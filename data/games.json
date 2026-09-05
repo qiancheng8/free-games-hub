@@ -11,7 +11,7 @@
     "url": "https://store.epicgames.com/p/alone-with-you-028a15",
     "isCurrent": true,
     "seller": "BancyCo",
-    "fetchedAt": "2026-09-05T04:28:48.352Z"
+    "fetchedAt": "2026-09-05T10:35:15.557Z"
   },
   {
     "id": "c76046dddcdb43619c33ce0395941033",
@@ -25,7 +25,7 @@
     "url": "https://store.epicgames.com/p/luftrausers-51e5e9",
     "isCurrent": false,
     "seller": "Devolver Digital, Inc.",
-    "fetchedAt": "2026-09-05T04:28:48.352Z"
+    "fetchedAt": "2026-09-05T10:35:15.557Z"
   },
   {
     "id": "e9bb092228f544c582e2c9395fae96f3",
@@ -39,6 +39,6 @@
     "url": "https://store.epicgames.com/p/astral-ascent-b33bc2",
     "isCurrent": false,
     "seller": "Hibernian Workshop",
-    "fetchedAt": "2026-09-05T04:28:48.352Z"
+    "fetchedAt": "2026-09-05T10:35:15.557Z"
   }
 ]
