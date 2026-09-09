@@ -11,7 +11,7 @@
     "url": "https://store.epicgames.com/p/alone-with-you-028a15",
     "isCurrent": true,
     "seller": "BancyCo",
-    "fetchedAt": "2026-09-09T11:23:03.161Z"
+    "fetchedAt": "2026-09-09T16:38:12.703Z"
   },
   {
     "id": "c76046dddcdb43619c33ce0395941033",
@@ -25,20 +25,20 @@
     "url": "https://store.epicgames.com/p/luftrausers-51e5e9",
     "isCurrent": false,
     "seller": "Devolver Digital, Inc.",
-    "fetchedAt": "2026-09-09T11:23:03.161Z"
+    "fetchedAt": "2026-09-09T16:38:12.703Z"
   },
   {
     "id": "e9bb092228f544c582e2c9395fae96f3",
     "title": "Astral Ascent",
     "description": "《星界战士》（原名：星座上升）是一款以现代幻想世界为背景的2D平台rogue-lite游戏。作为4个性格迥异的英雄之一，你必须设法从花园逃离，这个大花园是一座由12个强大且邪恶的boss守护的星界监狱，另称“十二星宫”。",
     "image": "https://cdn1.epicgames.com/spt-assets/974c8a587d714d8d9e0c3b0fefe61a35/astral-ascent-b0gcm.png",
-    "originalPrice": "¥78.00",
+    "originalPrice": "¥68.00",
     "startDate": "2026-09-10T15:00:00.000Z",
     "endDate": "2026-09-17T15:00:00.000Z",
     "slug": "astral-ascent-b33bc2",
     "url": "https://store.epicgames.com/p/astral-ascent-b33bc2",
     "isCurrent": false,
     "seller": "Hibernian Workshop",
-    "fetchedAt": "2026-09-09T11:23:03.161Z"
+    "fetchedAt": "2026-09-09T16:38:12.703Z"
   }
 ]
