@@ -11,7 +11,7 @@
     "url": "https://store.epicgames.com/p/luftrausers-51e5e9",
     "isCurrent": true,
     "seller": "Devolver Digital, Inc.",
-    "fetchedAt": "2026-09-11T20:57:57.811Z"
+    "fetchedAt": "2026-09-12T04:34:06.312Z"
   },
   {
     "id": "e9bb092228f544c582e2c9395fae96f3",
@@ -25,7 +25,7 @@
     "url": "https://store.epicgames.com/p/astral-ascent-b33bc2",
     "isCurrent": true,
     "seller": "Hibernian Workshop",
-    "fetchedAt": "2026-09-11T20:57:57.811Z"
+    "fetchedAt": "2026-09-12T04:34:06.312Z"
   },
   {
     "id": "8a20c6c8d5b5417e800c687e9d72013e",
@@ -39,7 +39,7 @@
     "url": "https://store.epicgames.com/p/mindcop-78e6c1",
     "isCurrent": false,
     "seller": "Plug In Digital SAS",
-    "fetchedAt": "2026-09-11T20:57:57.811Z"
+    "fetchedAt": "2026-09-12T04:34:06.312Z"
   },
   {
     "id": "b9ff3f98367a45cdac289dff6683a2bc",
@@ -53,6 +53,6 @@
     "url": "https://store.epicgames.com/p/shogun-showdown-61832d",
     "isCurrent": false,
     "seller": "Goblinz Studio SAS",
-    "fetchedAt": "2026-09-11T20:57:57.811Z"
+    "fetchedAt": "2026-09-12T04:34:06.312Z"
   }
 ]
