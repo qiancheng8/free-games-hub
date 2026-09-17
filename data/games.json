@@ -11,35 +11,7 @@
     "url": "https://store.epicgames.com/p/mechabellum-88a843",
     "isCurrent": false,
     "seller": "Dreamhaven, Inc.",
-    "fetchedAt": "2026-09-17T11:41:09.907Z"
-  },
-  {
-    "id": "c76046dddcdb43619c33ce0395941033",
-    "title": "Luftrausers",
-    "description": "The skies are aflame and the seas will overflow with wreckage in Vlambeer’s stylish arcade shooter LUFTRAUSERS! Take to the skies in customized fighter planes to battle battleships, submarines, and rival aces for glory, honor, and high scores.",
-    "image": "https://cdn1.epicgames.com/spt-assets/85ddeeec9d4243b3a2d78aab87bfae7f/luftrausers-1mxb1.png",
-    "originalPrice": "¥31.00",
-    "startDate": "2026-09-10T15:00:00.000Z",
-    "endDate": "2026-09-17T15:00:00.000Z",
-    "slug": "luftrausers-51e5e9",
-    "url": "https://store.epicgames.com/p/luftrausers-51e5e9",
-    "isCurrent": true,
-    "seller": "Devolver Digital, Inc.",
-    "fetchedAt": "2026-09-17T11:41:09.907Z"
-  },
-  {
-    "id": "e9bb092228f544c582e2c9395fae96f3",
-    "title": "Astral Ascent",
-    "description": "《星界战士》（原名：星座上升）是一款以现代幻想世界为背景的2D平台rogue-lite游戏。作为4个性格迥异的英雄之一，你必须设法从花园逃离，这个大花园是一座由12个强大且邪恶的boss守护的星界监狱，另称“十二星宫”。",
-    "image": "https://cdn1.epicgames.com/spt-assets/974c8a587d714d8d9e0c3b0fefe61a35/astral-ascent-b0gcm.png",
-    "originalPrice": "¥68.00",
-    "startDate": "2026-09-10T15:00:00.000Z",
-    "endDate": "2026-09-17T15:00:00.000Z",
-    "slug": "astral-ascent-b33bc2",
-    "url": "https://store.epicgames.com/p/astral-ascent-b33bc2",
-    "isCurrent": true,
-    "seller": "Hibernian Workshop",
-    "fetchedAt": "2026-09-17T11:41:09.907Z"
+    "fetchedAt": "2026-09-17T16:59:32.141Z"
   },
   {
     "id": "8a20c6c8d5b5417e800c687e9d72013e",
@@ -51,9 +23,9 @@
     "endDate": "2026-09-24T15:00:00.000Z",
     "slug": "mindcop-78e6c1",
     "url": "https://store.epicgames.com/p/mindcop-78e6c1",
-    "isCurrent": false,
+    "isCurrent": true,
     "seller": "Plug In Digital SAS",
-    "fetchedAt": "2026-09-17T11:41:09.907Z"
+    "fetchedAt": "2026-09-17T16:59:32.142Z"
   },
   {
     "id": "b9ff3f98367a45cdac289dff6683a2bc",
@@ -65,8 +37,8 @@
     "endDate": "2026-09-24T15:00:00.000Z",
     "slug": "shogun-showdown-61832d",
     "url": "https://store.epicgames.com/p/shogun-showdown-61832d",
-    "isCurrent": false,
+    "isCurrent": true,
     "seller": "Goblinz Studio SAS",
-    "fetchedAt": "2026-09-17T11:41:09.907Z"
+    "fetchedAt": "2026-09-17T16:59:32.142Z"
   }
 ]
