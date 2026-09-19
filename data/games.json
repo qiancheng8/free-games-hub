@@ -1,5 +1,19 @@
 [
   {
+    "id": "7c14bf0cffdd43be968fdcf28e5af653",
+    "title": "Astrea Six Sided Oracles",
+    "description": "《Astrea》是一款全新的骰子构筑+地宫探险类游戏。玩家将化身为六位勇敢先知之一，开启穿越失落文明遗迹的冒险之旅，使用不断变化的骰子组合和附魔守卫，净化一波又一波腐化的敌人和一位衰败的女神，从而拯救整个星系。",
+    "image": "https://cdn1.epicgames.com/spt-assets/4515173972ae4444a2582bc690c150bd/astrea-six-sided-oracles-offer-bvy0n.png",
+    "originalPrice": "¥78.00",
+    "startDate": "2026-09-24T15:00:00.000Z",
+    "endDate": "2026-10-01T15:00:00.000Z",
+    "slug": "astrea-six-sided-oracles-33c949",
+    "url": "https://store.epicgames.com/p/astrea-six-sided-oracles-33c949",
+    "isCurrent": false,
+    "seller": "Akupara Games",
+    "fetchedAt": "2026-09-19T10:58:56.137Z"
+  },
+  {
     "id": "6d99eae44d724baf84d6261a7a0f05d2",
     "title": "钢铁指挥官",
     "description": "在这款机甲自走棋游戏中，你将指挥钢铁洪流主宰未来战场！整编部队，研发科技，排兵布阵，掌控全局，率领您专属的钢铁雄师在战场上粉碎强敌！！全程策略，拒绝无脑点击。1v1 巅峰对决；2v2 携手破敌；4人混战厮杀；生存模式挑战极限；时空裂隙征服未知！以智取胜，总有一个战场适合你！",
@@ -11,7 +25,7 @@
     "url": "https://store.epicgames.com/p/mechabellum-88a843",
     "isCurrent": false,
     "seller": "Dreamhaven, Inc.",
-    "fetchedAt": "2026-09-19T04:37:18.670Z"
+    "fetchedAt": "2026-09-19T10:58:56.137Z"
   },
   {
     "id": "8a20c6c8d5b5417e800c687e9d72013e",
@@ -25,7 +39,7 @@
     "url": "https://store.epicgames.com/p/mindcop-78e6c1",
     "isCurrent": true,
     "seller": "Plug In Digital SAS",
-    "fetchedAt": "2026-09-19T04:37:18.670Z"
+    "fetchedAt": "2026-09-19T10:58:56.137Z"
   },
   {
     "id": "b9ff3f98367a45cdac289dff6683a2bc",
@@ -39,6 +53,6 @@
     "url": "https://store.epicgames.com/p/shogun-showdown-61832d",
     "isCurrent": true,
     "seller": "Goblinz Studio SAS",
-    "fetchedAt": "2026-09-19T04:37:18.670Z"
+    "fetchedAt": "2026-09-19T10:58:56.137Z"
   }
 ]
