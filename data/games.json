@@ -9,9 +9,23 @@
     "endDate": "2026-10-01T15:00:00.000Z",
     "slug": "astrea-six-sided-oracles-33c949",
     "url": "https://store.epicgames.com/p/astrea-six-sided-oracles-33c949",
-    "isCurrent": false,
+    "isCurrent": true,
     "seller": "Akupara Games",
-    "fetchedAt": "2026-09-24T11:45:32.204Z"
+    "fetchedAt": "2026-09-24T17:10:53.854Z"
+  },
+  {
+    "id": "7ae00c3e89174012b175cc73b4737723",
+    "title": "System Shock 2: 25th Anniversary Remaster",
+    "description": "System Shock® 2: 25th Anniversary Remaster is a genre defining experience that established innovative game-play mechanics that are a staple of the FPS and RPG genre today. Survive the wretched corridors of the Von Braun. Your training has prepared you for this.",
+    "image": "https://cdn1.epicgames.com/spt-assets/690ff600d5134d9ab12c96862ed5257a/system-shock-2-25th-anniversary-remaster-1e28j.jpg",
+    "originalPrice": "¥93.00",
+    "startDate": "2026-10-01T15:00:00.000Z",
+    "endDate": "2026-10-08T15:00:00.000Z",
+    "slug": "system-shock-2-25th-anniversary-remaster-cb94d9",
+    "url": "https://store.epicgames.com/p/system-shock-2-25th-anniversary-remaster-cb94d9",
+    "isCurrent": false,
+    "seller": "Atari",
+    "fetchedAt": "2026-09-24T17:10:53.854Z"
   },
   {
     "id": "6d99eae44d724baf84d6261a7a0f05d2",
@@ -23,36 +37,22 @@
     "endDate": "2026-10-01T15:00:00.000Z",
     "slug": "mechabellum-88a843",
     "url": "https://store.epicgames.com/p/mechabellum-88a843",
-    "isCurrent": false,
+    "isCurrent": true,
     "seller": "Dreamhaven, Inc.",
-    "fetchedAt": "2026-09-24T11:45:32.204Z"
+    "fetchedAt": "2026-09-24T17:10:53.854Z"
   },
   {
-    "id": "8a20c6c8d5b5417e800c687e9d72013e",
-    "title": "心灵警探",
-    "description": "《心灵警探》是一款非线性的悬疑侦探游戏。作品糅合了故事驱动式冒险与实时三消解谜玩法。你是声名在外的心灵警探，能够进入嫌疑人的心灵，揭开他们的秘密并看破他们的谎言。",
-    "image": "https://cdn1.epicgames.com/spt-assets/984cdc148ea6423e866ca6e04a1b429f/mindcop-kplp1.jpg",
-    "originalPrice": "¥60.00",
-    "startDate": "2026-09-17T15:00:00.000Z",
-    "endDate": "2026-09-24T15:00:00.000Z",
-    "slug": "mindcop-78e6c1",
-    "url": "https://store.epicgames.com/p/mindcop-78e6c1",
-    "isCurrent": true,
-    "seller": "Plug In Digital SAS",
-    "fetchedAt": "2026-09-24T11:45:32.204Z"
-  },
-  {
-    "id": "b9ff3f98367a45cdac289dff6683a2bc",
-    "title": "Shogun Showdown",
-    "description": "Shogun Showdown is a turn-based combat game with rogue-like and deck-building elements. Position yourself and attack at the right time, upgrade your tiles and combo them to get ready to face the Shogun!",
-    "image": "https://cdn1.epicgames.com/spt-assets/450bcfdb9c00453394d7ccc2948ba5db/shogun-showdown-hz1yh.jpg",
-    "originalPrice": "¥47.00",
-    "startDate": "2026-09-17T15:00:00.000Z",
-    "endDate": "2026-09-24T15:00:00.000Z",
-    "slug": "shogun-showdown-61832d",
-    "url": "https://store.epicgames.com/p/shogun-showdown-61832d",
-    "isCurrent": true,
-    "seller": "Goblinz Studio SAS",
-    "fetchedAt": "2026-09-24T11:45:32.204Z"
+    "id": "af4c34934afe4db0870b8a1d82dceb94",
+    "title": "深埋之星",
+    "description": "《深埋之星》是以直播选秀节目中发生的坍塌事故为背景的悬疑冒险游戏。\n受困的人们一边彼此交流，一边通过社交媒体向外界传递信息，等待救援。\n然而，随着意外事件的发生，生存者们环绕于矛盾和怀疑之中。",
+    "image": "https://cdn1.epicgames.com/spt-assets/e2dc55c2709641a18fc37ef7ce32cfdd/buried-stars-1j9of.jpg",
+    "originalPrice": "¥116.00",
+    "startDate": "2026-10-01T15:00:00.000Z",
+    "endDate": "2026-10-08T15:00:00.000Z",
+    "slug": "buried-stars-d7c88c",
+    "url": "https://store.epicgames.com/p/buried-stars-d7c88c",
+    "isCurrent": false,
+    "seller": "LINE Games Corporation",
+    "fetchedAt": "2026-09-24T17:10:53.854Z"
   }
 ]
