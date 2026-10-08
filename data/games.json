@@ -9,37 +9,37 @@
     "endDate": "2026-10-15T15:00:00.000Z",
     "slug": "out-of-sight-b96ca8",
     "url": "https://store.epicgames.com/p/out-of-sight-b96ca8",
-    "isCurrent": false,
+    "isCurrent": true,
     "seller": "The Gang Studio AB",
-    "fetchedAt": "2026-10-08T13:28:55.938Z"
+    "fetchedAt": "2026-10-08T23:20:42.410Z"
   },
   {
-    "id": "7ae00c3e89174012b175cc73b4737723",
-    "title": "System Shock 2: 25th Anniversary Remaster",
-    "description": "System Shock® 2: 25th Anniversary Remaster is a genre defining experience that established innovative game-play mechanics that are a staple of the FPS and RPG genre today. Survive the wretched corridors of the Von Braun. Your training has prepared you for this.",
-    "image": "https://cdn1.epicgames.com/spt-assets/690ff600d5134d9ab12c96862ed5257a/system-shock-2-25th-anniversary-remaster-1e28j.jpg",
-    "originalPrice": "¥93.00",
-    "startDate": "2026-10-01T15:00:00.000Z",
-    "endDate": "2026-10-08T15:00:00.000Z",
-    "slug": "system-shock-2-25th-anniversary-remaster-cb94d9",
-    "url": "https://store.epicgames.com/p/system-shock-2-25th-anniversary-remaster-cb94d9",
-    "isCurrent": true,
-    "seller": "Atari",
-    "fetchedAt": "2026-10-08T13:28:55.938Z"
+    "id": "6a846880836044a2adad614ac771f487",
+    "title": "Bad Cheese",
+    "description": "Bad Cheese is a psychological horror inspired by the eerie charm of 1920s animation. \nStep into the tiny paws of a mouse spending the weekend at home with a dysfunctional Dad while Mom's away. \nBe on your best behavior and KEEP DADDY HAPPY.",
+    "image": "https://cdn1.epicgames.com/spt-assets/6cbb0e3805c4436bafd028cafff48307/bad-cheese-16hj0.png",
+    "originalPrice": "¥40.00",
+    "startDate": "2026-10-15T15:00:00.000Z",
+    "endDate": "2026-10-22T15:00:00.000Z",
+    "slug": "bad-cheese-4256d9",
+    "url": "https://store.epicgames.com/p/bad-cheese-4256d9",
+    "isCurrent": false,
+    "seller": "FEARDEMIC sp. z o.o.",
+    "fetchedAt": "2026-10-08T23:20:42.410Z"
   },
   {
-    "id": "af4c34934afe4db0870b8a1d82dceb94",
-    "title": "深埋之星",
-    "description": "《深埋之星》是以直播选秀节目中发生的坍塌事故为背景的悬疑冒险游戏。\n受困的人们一边彼此交流，一边通过社交媒体向外界传递信息，等待救援。\n然而，随着意外事件的发生，生存者们环绕于矛盾和怀疑之中。",
-    "image": "https://cdn1.epicgames.com/spt-assets/e2dc55c2709641a18fc37ef7ce32cfdd/buried-stars-1j9of.jpg",
-    "originalPrice": "¥116.00",
-    "startDate": "2026-10-01T15:00:00.000Z",
-    "endDate": "2026-10-08T15:00:00.000Z",
-    "slug": "buried-stars-d7c88c",
-    "url": "https://store.epicgames.com/p/buried-stars-d7c88c",
-    "isCurrent": true,
-    "seller": "LINE Games Corporation",
-    "fetchedAt": "2026-10-08T13:28:55.938Z"
+    "id": "db1202a30c5541dd99cdf54c918a9348",
+    "title": "Agent A - 伪装游戏",
+    "description": "逃脱游戏 密室 谋杀游戏 找物品 密室逃脱游戏 找物品冒险游戏 escape room games 间谍 冒险 解谜 债券 秘密 代理 红宝石 神秘",
+    "image": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-3cppl.png",
+    "originalPrice": "¥62.00",
+    "startDate": "2026-10-15T15:00:00.000Z",
+    "endDate": "2026-10-22T15:00:00.000Z",
+    "slug": "agent-a-a-puzzle-in-disguise-42fe5f",
+    "url": "https://store.epicgames.com/p/agent-a-a-puzzle-in-disguise-42fe5f",
+    "isCurrent": false,
+    "seller": "Yak & Co",
+    "fetchedAt": "2026-10-08T23:20:42.410Z"
   },
   {
     "id": "af6b823b8698465f9aedc3bddf2e8686",
@@ -51,8 +51,8 @@
     "endDate": "2026-10-15T15:00:00.000Z",
     "slug": "terrascape-2b12b1",
     "url": "https://store.epicgames.com/p/terrascape-2b12b1",
-    "isCurrent": false,
+    "isCurrent": true,
     "seller": "Bitfall Studios GmbH",
-    "fetchedAt": "2026-10-08T13:28:55.938Z"
+    "fetchedAt": "2026-10-08T23:20:42.410Z"
   }
 ]

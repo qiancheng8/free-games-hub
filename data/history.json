@@ -358,5 +358,25 @@
     "startDate": "2026-10-01T15:00:00.000Z",
     "slug": "buried-stars-d7c88c",
     "url": "https://store.epicgames.com/p/buried-stars-d7c88c"
+  },
+  {
+    "id": "cb733f3432db46bca94965b422c33ede",
+    "title": "虎视眈眈 (Out of Sight)",
+    "image": "https://cdn1.epicgames.com/spt-assets/6e1bf54cfa6344c89d41e4e7af036ac9/out-of-sight-1l12n.jpg",
+    "originalPrice": "¥53.00",
+    "endDate": "2026-10-15T15:00:00.000Z",
+    "startDate": "2026-10-08T15:00:00.000Z",
+    "slug": "out-of-sight-b96ca8",
+    "url": "https://store.epicgames.com/p/out-of-sight-b96ca8"
+  },
+  {
+    "id": "af6b823b8698465f9aedc3bddf2e8686",
+    "title": "TerraScape",
+    "image": "https://cdn1.epicgames.com/spt-assets/a740a2eed807469f88b9dff17e7cd3a3/terrascape-j7p8d.png",
+    "originalPrice": "¥53.00",
+    "endDate": "2026-10-15T15:00:00.000Z",
+    "startDate": "2026-10-08T15:00:00.000Z",
+    "slug": "terrascape-2b12b1",
+    "url": "https://store.epicgames.com/p/terrascape-2b12b1"
   }
 ]
