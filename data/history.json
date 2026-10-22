@@ -398,5 +398,25 @@
     "startDate": "2026-10-15T15:00:00.000Z",
     "slug": "agent-a-a-puzzle-in-disguise-42fe5f",
     "url": "https://store.epicgames.com/p/agent-a-a-puzzle-in-disguise-42fe5f"
+  },
+  {
+    "id": "6aab3ddef4f84fbc9dd81c60f9d8549c",
+    "title": "Sker Ritual",
+    "image": "https://cdn1.epicgames.com/spt-assets/43d96f4437e34c87b7eff08831d1b1de/sker-ritual-1tuka.png",
+    "originalPrice": "¥78.00",
+    "endDate": "2026-10-29T15:00:00.000Z",
+    "startDate": "2026-10-22T15:00:00.000Z",
+    "slug": "sker-ritual-aac702",
+    "url": "https://store.epicgames.com/p/sker-ritual-aac702"
+  },
+  {
+    "id": "06190191cede42afb633fe89ef08c27e",
+    "title": "Home - A Unique Horror Adventure",
+    "image": "https://cdn1.epicgames.com/spt-assets/46fc0cdb9f164a848e916249a8f68fc7/home-1f6qi.png",
+    "originalPrice": "¥15.00",
+    "endDate": "2026-10-29T15:00:00.000Z",
+    "startDate": "2026-10-22T15:00:00.000Z",
+    "slug": "home-19212a",
+    "url": "https://store.epicgames.com/p/home-19212a"
   }
 ]
