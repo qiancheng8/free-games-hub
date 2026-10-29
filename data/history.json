@@ -418,5 +418,15 @@
     "startDate": "2026-10-22T15:00:00.000Z",
     "slug": "home-19212a",
     "url": "https://store.epicgames.com/p/home-19212a"
+  },
+  {
+    "id": "4e469c7d8bbf49bcabc2c07127d3d946",
+    "title": "《Sorry We’re Closed》",
+    "image": "https://cdn1.epicgames.com/spt-assets/9ab7eaaeb2f041969b350955b789f0f7/sorry-were-closed-1orqh.png",
+    "originalPrice": "¥78.00",
+    "endDate": "2026-11-05T16:00:00.000Z",
+    "startDate": "2026-10-29T15:00:00.000Z",
+    "slug": "sorry-were-closed-724c86",
+    "url": "https://store.epicgames.com/p/sorry-were-closed-724c86"
   }
 ]
