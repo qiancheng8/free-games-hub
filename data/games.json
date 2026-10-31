@@ -11,21 +11,7 @@
     "url": "https://store.epicgames.com/p/idle-champions-of-the-forgotten-realms",
     "isCurrent": false,
     "seller": "Codename Entertainment",
-    "fetchedAt": "2026-10-31T05:40:08.666Z"
-  },
-  {
-    "id": "4e469c7d8bbf49bcabc2c07127d3d946",
-    "title": "《Sorry We’re Closed》",
-    "description": "《Sorry We’re Closed》是一款充满怀旧风格的单人恐怖生存游戏，拥有丰富的背景故事、深刻的角色刻画以及多种结局。以固定视角探索那些令人不安的地点。开启你的第三只眼，穿梭于不同的世界之间，揭开隐藏的秘密并破解谜题。",
-    "image": "https://cdn1.epicgames.com/spt-assets/9ab7eaaeb2f041969b350955b789f0f7/sorry-were-closed-1orqh.png",
-    "originalPrice": "¥78.00",
-    "startDate": "2026-10-29T15:00:00.000Z",
-    "endDate": "2026-11-05T16:00:00.000Z",
-    "slug": "sorry-were-closed-724c86",
-    "url": "https://store.epicgames.com/p/sorry-were-closed-724c86",
-    "isCurrent": true,
-    "seller": "Akupara Games",
-    "fetchedAt": "2026-10-31T05:40:08.666Z"
+    "fetchedAt": "2026-10-31T12:28:43.001Z"
   },
   {
     "id": "3be0a0d8479946d78f60d90c9442a0b4",
@@ -39,6 +25,6 @@
     "url": "https://store.epicgames.com/p/flotsam-266287",
     "isCurrent": false,
     "seller": "Pajama Llama Games",
-    "fetchedAt": "2026-10-31T05:40:08.666Z"
+    "fetchedAt": "2026-10-31T12:28:43.002Z"
   }
 ]
