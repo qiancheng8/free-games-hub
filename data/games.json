@@ -11,21 +11,21 @@
     "url": "https://store.epicgames.com/p/idle-champions-of-the-forgotten-realms",
     "isCurrent": true,
     "seller": "Codename Entertainment",
-    "fetchedAt": "2026-11-09T06:27:02.466Z"
+    "fetchedAt": "2026-11-09T22:20:55.140Z"
   },
   {
     "id": "3be0a0d8479946d78f60d90c9442a0b4",
     "title": "浮游世界",
     "description": "漂浮垃圾城生存游戏！从海洋表面尽可能搜集珍贵的垃圾，发展你的城市，同时努力在这个色彩斑斓的后末日世界中生存下去。",
     "image": "https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-1yczl.jpg",
-    "originalPrice": "¥75.00",
+    "originalPrice": "¥80.00",
     "startDate": "2026-11-05T16:00:00.000Z",
     "endDate": "2026-11-12T16:00:00.000Z",
     "slug": "flotsam-266287",
     "url": "https://store.epicgames.com/p/flotsam-266287",
     "isCurrent": true,
     "seller": "Pajama Llama Games",
-    "fetchedAt": "2026-11-09T06:27:02.466Z"
+    "fetchedAt": "2026-11-09T22:20:55.140Z"
   },
   {
     "id": "9975548b6d404a94b8a9bdb34cad49e9",
@@ -39,6 +39,6 @@
     "url": "https://store.epicgames.com/p/knightica-3be45c",
     "isCurrent": false,
     "seller": "Goblinz Studio SAS",
-    "fetchedAt": "2026-11-09T06:27:02.466Z"
+    "fetchedAt": "2026-11-09T22:20:55.140Z"
   }
 ]
