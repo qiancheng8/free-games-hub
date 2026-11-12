@@ -1,31 +1,31 @@
 [
   {
-    "id": "a9748abde1c94b66aae5250bb9fc5503",
-    "title": "《Idle Champions of the Forgotten Realms》",
-    "description": "《Idle Champions》是一款官方《龙与地下城》策略管理游戏，聚集了来自小说、战役和剧集中的各路标志性角色，展开一场史诗级的冒险。",
-    "image": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-1vkir.jpg",
-    "originalPrice": "0",
-    "startDate": "2026-11-05T16:00:00.000Z",
-    "endDate": "2026-11-12T16:00:00.000Z",
-    "slug": "idle-champions-of-the-forgotten-realms",
-    "url": "https://store.epicgames.com/p/idle-champions-of-the-forgotten-realms",
-    "isCurrent": true,
-    "seller": "Codename Entertainment",
-    "fetchedAt": "2026-11-12T07:09:20.735Z"
+    "id": "d37f3694e7a04edb8347f3cb6320f9d3",
+    "title": "《Alien: Isolation》",
+    "description": "在《Alien: Isolation》这款以持续恐惧和致命危险气氛为背景的生存恐怖游戏中，发掘恐惧的真正意义。   使用 CATHODE™ 引擎打造。",
+    "image": "https://cdn1.epicgames.com/df37f065c3f14eadbf011177396e2966/offer/EGS_AlienIsolation_CreativeAssembly_S5-1920x1080-1cf3b9a86adcefeebf903451b1b3fb49.jpg",
+    "originalPrice": "¥198.00",
+    "startDate": "2026-11-19T16:00:00.000Z",
+    "endDate": "2026-11-26T16:00:00.000Z",
+    "slug": "alien-isolation",
+    "url": "https://store.epicgames.com/p/alien-isolation",
+    "isCurrent": false,
+    "seller": "SEGA of Europe",
+    "fetchedAt": "2026-11-12T19:53:40.223Z"
   },
   {
-    "id": "3be0a0d8479946d78f60d90c9442a0b4",
-    "title": "浮游世界",
-    "description": "漂浮垃圾城生存游戏！从海洋表面尽可能搜集珍贵的垃圾，发展你的城市，同时努力在这个色彩斑斓的后末日世界中生存下去。",
-    "image": "https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-1yczl.jpg",
-    "originalPrice": "¥80.00",
-    "startDate": "2026-11-05T16:00:00.000Z",
-    "endDate": "2026-11-12T16:00:00.000Z",
-    "slug": "flotsam-266287",
-    "url": "https://store.epicgames.com/p/flotsam-266287",
-    "isCurrent": true,
-    "seller": "Pajama Llama Games",
-    "fetchedAt": "2026-11-12T07:09:20.735Z"
+    "id": "1f9a12b06b4f437790b6913ad136a08c",
+    "title": "Mark of the Deep",
+    "description": "深渊之印是一款史诗般的海盗冒险游戏，拥有强烈的叙事性，并融合了广受好评的银河恶魔城游戏与魂系游戏的惊险元素。以海盗刘琦的身份踏上旅程，探索受诅咒岛屿的奥秘，寻找失踪的海盗船员！",
+    "image": "https://cdn1.epicgames.com/spt-assets/83a240506a884c10ad8fb99694e57a0d/mark-of-the-deep-w1ygr.png",
+    "originalPrice": "¥55.00",
+    "startDate": "2026-11-19T16:00:00.000Z",
+    "endDate": "2026-11-26T16:00:00.000Z",
+    "slug": "mark-of-the-deep-f7dc08",
+    "url": "https://store.epicgames.com/p/mark-of-the-deep-f7dc08",
+    "isCurrent": false,
+    "seller": "Light Up Games",
+    "fetchedAt": "2026-11-12T19:53:40.223Z"
   },
   {
     "id": "9975548b6d404a94b8a9bdb34cad49e9",
@@ -37,8 +37,8 @@
     "endDate": "2026-11-19T16:00:00.000Z",
     "slug": "knightica-3be45c",
     "url": "https://store.epicgames.com/p/knightica-3be45c",
-    "isCurrent": false,
+    "isCurrent": true,
     "seller": "Goblinz Studio SAS",
-    "fetchedAt": "2026-11-12T07:09:20.735Z"
+    "fetchedAt": "2026-11-12T19:53:40.223Z"
   }
 ]
