@@ -1,5 +1,19 @@
 [
   {
+    "id": "0623017cf9f341efbe07557f46beb4e8",
+    "title": "火之石 – 放置点击英雄RPG",
+    "description": "Firestone: Online Idle RPG 是一款具有放置 RPG 机制的奇幻多人游戏。收集英雄🧙‍♂️、升级他们的装备和技能、派遣他们进行 AFK 战斗，或疯狂继续加强点击，以击败可怕的Boss！与公会好友聊天或参与 PVP⚔️——选择权在你手中！",
+    "image": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-9irk3.jpg",
+    "originalPrice": "0",
+    "startDate": "2026-11-26T16:00:00.000Z",
+    "endDate": "2026-12-03T16:00:00.000Z",
+    "slug": "firestone-online-idle-rpg-bfd04b",
+    "url": "https://store.epicgames.com/p/firestone-online-idle-rpg-bfd04b",
+    "isCurrent": false,
+    "seller": "AM Holyday Studios Ltd",
+    "fetchedAt": "2026-11-18T20:30:27.600Z"
+  },
+  {
     "id": "1f9a12b06b4f437790b6913ad136a08c",
     "title": "Mark of the Deep",
     "description": "深渊之印是一款史诗般的海盗冒险游戏，拥有强烈的叙事性，并融合了广受好评的银河恶魔城游戏与魂系游戏的惊险元素。以海盗刘琦的身份踏上旅程，探索受诅咒岛屿的奥秘，寻找失踪的海盗船员！",
@@ -11,7 +25,7 @@
     "url": "https://store.epicgames.com/p/mark-of-the-deep-f7dc08",
     "isCurrent": false,
     "seller": "Light Up Games",
-    "fetchedAt": "2026-11-18T07:27:33.818Z"
+    "fetchedAt": "2026-11-18T20:30:27.601Z"
   },
   {
     "id": "9975548b6d404a94b8a9bdb34cad49e9",
@@ -25,6 +39,6 @@
     "url": "https://store.epicgames.com/p/knightica-3be45c",
     "isCurrent": true,
     "seller": "Goblinz Studio SAS",
-    "fetchedAt": "2026-11-18T07:27:33.818Z"
+    "fetchedAt": "2026-11-18T20:30:27.601Z"
   }
 ]
