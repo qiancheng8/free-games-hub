@@ -3,7 +3,7 @@
     "id": "0623017cf9f341efbe07557f46beb4e8",
     "title": "火之石 – 放置点击英雄RPG",
     "description": "Firestone: Online Idle RPG 是一款具有放置 RPG 机制的奇幻多人游戏。收集英雄🧙‍♂️、升级他们的装备和技能、派遣他们进行 AFK 战斗，或疯狂继续加强点击，以击败可怕的Boss！与公会好友聊天或参与 PVP⚔️——选择权在你手中！",
-    "image": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-9irk3.jpg",
+    "image": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-6j7cs.jpg",
     "originalPrice": "0",
     "startDate": "2026-11-26T16:00:00.000Z",
     "endDate": "2026-12-03T16:00:00.000Z",
@@ -11,7 +11,7 @@
     "url": "https://store.epicgames.com/p/firestone-online-idle-rpg-bfd04b",
     "isCurrent": false,
     "seller": "AM Holyday Studios Ltd",
-    "fetchedAt": "2026-11-19T07:25:12.055Z"
+    "fetchedAt": "2026-11-19T20:36:51.584Z"
   },
   {
     "id": "1f9a12b06b4f437790b6913ad136a08c",
@@ -23,22 +23,8 @@
     "endDate": "2026-11-26T16:00:00.000Z",
     "slug": "mark-of-the-deep-f7dc08",
     "url": "https://store.epicgames.com/p/mark-of-the-deep-f7dc08",
-    "isCurrent": false,
-    "seller": "Light Up Games",
-    "fetchedAt": "2026-11-19T07:25:12.055Z"
-  },
-  {
-    "id": "9975548b6d404a94b8a9bdb34cad49e9",
-    "title": "斗阵骑士 Knightica",
-    "description": "在这款类Rogue自走棋游戏中，征招强大单位，悉心排兵布阵，调整策略，充分发掘军队的协同效果！\n 在《Knightica》中，你将指挥一整支战团，跨越重重挑战，最后解放王国。\n 优化组合方案，巧用附魔法术，迎战危险怪物，最终带领你的军队走向胜利！",
-    "image": "https://cdn1.epicgames.com/spt-assets/357100ca5613420e98208c5f14585e9d/knightica-1nuxm.png",
-    "originalPrice": "¥47.00",
-    "startDate": "2026-11-12T16:00:00.000Z",
-    "endDate": "2026-11-19T16:00:00.000Z",
-    "slug": "knightica-3be45c",
-    "url": "https://store.epicgames.com/p/knightica-3be45c",
     "isCurrent": true,
-    "seller": "Goblinz Studio SAS",
-    "fetchedAt": "2026-11-19T07:25:12.055Z"
+    "seller": "Light Up Games",
+    "fetchedAt": "2026-11-19T20:36:51.584Z"
   }
 ]
