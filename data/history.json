@@ -468,5 +468,25 @@
     "startDate": "2026-11-19T16:00:00.000Z",
     "slug": "mark-of-the-deep-f7dc08",
     "url": "https://store.epicgames.com/p/mark-of-the-deep-f7dc08"
+  },
+  {
+    "id": "0623017cf9f341efbe07557f46beb4e8",
+    "title": "火之石 – 放置点击英雄RPG",
+    "image": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-6j7cs.jpg",
+    "originalPrice": "0",
+    "endDate": "2026-12-03T16:00:00.000Z",
+    "startDate": "2026-11-26T16:00:00.000Z",
+    "slug": "firestone-online-idle-rpg-bfd04b",
+    "url": "https://store.epicgames.com/p/firestone-online-idle-rpg-bfd04b"
+  },
+  {
+    "id": "f0a333114190492c84a9decd2bb43875",
+    "title": "Bread and Fred",
+    "image": "https://cdn1.epicgames.com/spt-assets/545b4dd8bb364c12b719268198a93ef3/bread-and-fred-3jnwn.jpg",
+    "originalPrice": "¥47.00",
+    "endDate": "2026-12-03T16:00:00.000Z",
+    "startDate": "2026-11-26T16:00:00.000Z",
+    "slug": "bread-and-fred-1db362",
+    "url": "https://store.epicgames.com/p/bread-and-fred-1db362"
   }
 ]

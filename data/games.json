@@ -9,9 +9,9 @@
     "endDate": "2026-12-03T16:00:00.000Z",
     "slug": "firestone-online-idle-rpg-bfd04b",
     "url": "https://store.epicgames.com/p/firestone-online-idle-rpg-bfd04b",
-    "isCurrent": false,
+    "isCurrent": true,
     "seller": "AM Holyday Studios Ltd",
-    "fetchedAt": "2026-11-26T08:15:56.211Z"
+    "fetchedAt": "2026-11-26T21:30:35.056Z"
   },
   {
     "id": "f0a333114190492c84a9decd2bb43875",
@@ -23,22 +23,22 @@
     "endDate": "2026-12-03T16:00:00.000Z",
     "slug": "bread-and-fred-1db362",
     "url": "https://store.epicgames.com/p/bread-and-fred-1db362",
-    "isCurrent": false,
+    "isCurrent": true,
     "seller": "Atari",
-    "fetchedAt": "2026-11-26T08:15:56.211Z"
+    "fetchedAt": "2026-11-26T21:30:35.056Z"
   },
   {
-    "id": "1f9a12b06b4f437790b6913ad136a08c",
-    "title": "Mark of the Deep",
-    "description": "深渊之印是一款史诗般的海盗冒险游戏，拥有强烈的叙事性，并融合了广受好评的银河恶魔城游戏与魂系游戏的惊险元素。以海盗刘琦的身份踏上旅程，探索受诅咒岛屿的奥秘，寻找失踪的海盗船员！",
-    "image": "https://cdn1.epicgames.com/spt-assets/83a240506a884c10ad8fb99694e57a0d/mark-of-the-deep-w1ygr.png",
-    "originalPrice": "¥55.00",
-    "startDate": "2026-11-19T16:00:00.000Z",
-    "endDate": "2026-11-26T16:00:00.000Z",
-    "slug": "mark-of-the-deep-f7dc08",
-    "url": "https://store.epicgames.com/p/mark-of-the-deep-f7dc08",
-    "isCurrent": true,
-    "seller": "Light Up Games",
-    "fetchedAt": "2026-11-26T08:15:56.211Z"
+    "id": "72bd05148adb4e2cacb8b2efaa4c0297",
+    "title": "Strange Antiquities",
+    "description": "Strange Antiquities is a game set in Undermere, where you explore occult artifacts and solve dark mysteries. As an apprentice thaumaturge, you'll identify magical items and help townsfolk. A sequel to Strange Horticulture, it blends exploration to uncover strange secrets.",
+    "image": "https://cdn1.epicgames.com/spt-assets/d0e3b7c3690c485ca7a435d298262ab2/strange-antiquities-1kl5s.png",
+    "originalPrice": "¥56.00",
+    "startDate": "2026-12-03T16:00:00.000Z",
+    "endDate": "2026-12-10T16:00:00.000Z",
+    "slug": "strange-antiquities-e37660",
+    "url": "https://store.epicgames.com/p/strange-antiquities-e37660",
+    "isCurrent": false,
+    "seller": "Iceberg Interactive",
+    "fetchedAt": "2026-11-26T21:30:35.057Z"
   }
 ]
